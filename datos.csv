@@ -1,0 +1,1001 @@
+Company,Sector,Current Price,Market Cap,Dividend Payment Schedule,Consensus Price Target,Upside/Downside,Consensus Rating,Current Year EPS Estimate,P/E Ratio (Trailing)
+AAPLApple,Computer and Technology,$189.97,$2.95T,Quarterly,$198.25,4.36%,Moderate Buy 2.77,$6.56,31.04
+MSFTMicrosoft,Computer and Technology,$377.43,$2.81T,Quarterly,$388.84,3.02%,Moderate Buy 2.89,$11.13,36.54
+GOOGAlphabet,Computer and Technology,$138.22,$1.73T,,$130.69,-5.45%,Buy 3.00,$5.75,26.53
+GOOGLAlphabet,Computer and Technology,$136.69,$1.71T,,$147.12,7.63%,Moderate Buy 2.88,$5.75,26.24
+AMZNAmazon.com,Retail/Wholesale,$146.74,$1.52T,,$168.93,15.12%,Moderate Buy 2.98,$2.60,76.03
+NVDANVIDIA,Computer and Technology,$477.76,$1.18T,Quarterly,$588.38,23.15%,Moderate Buy 2.92,$9.71,63.03
+METAMeta Platforms,Computer and Technology,$338.23,$869.20B,,$349.53,3.34%,Moderate Buy 2.88,$14.26,29.85
+BRK.ABerkshire Hathaway,Finance,"$549,500.00",$793.48B,,"$550,795.50",0.24%,Hold 2.00,,10.42
+BRK.BBerkshire Hathaway,Finance,$362.68,$785.57B,,$414.00,14.15%,Hold 2.00,$16.35,10.32
+TSLATesla,Auto/Tires/Trucks,$235.45,$748.48B,,$233.87,-0.67%,Hold 2.14,$2.64,75.71
+LLYEli Lilly and Company,Medical,$601.10,$570.63B,Quarterly,$557.00,-7.34%,Moderate Buy 2.81,$6.62,108.89
+TSMTaiwan Semiconductor Manufacturing,Computer and Technology,$97.83,$507.39B,Quarterly,$116.67,19.25%,Buy 3.00,$4.97,17.6
+UNHUnitedHealth Group,Medical,$547.10,$506.03B,Quarterly,$576.90,5.45%,Moderate Buy 2.94,$24.94,23.75
+VVisa,Business Services,$254.30,$473.47B,Quarterly,$275.67,8.40%,Moderate Buy 2.72,$9.90,30.68
+NVONovo Nordisk A/S,Medical,$105.45,$473.21B,Annually,$60.83,-42.31%,Moderate Buy 2.75,$2.62,43.76
+JPMJPMorgan Chase & Co.,Finance,$153.54,$443.89B,Quarterly,$168.80,9.94%,Moderate Buy 2.56,$16.62,9.17
+SPYSPDR S&P 500 ETF Trust,Finance,$455.30,$428.86B,Quarterly,$0.00,,,,
+WMTWalmart,Retail/Wholesale,$156.06,$420.05B,Quarterly,$179.00,14.70%,Moderate Buy 2.87,$6.45,25.88
+XOMExxon Mobil,Oils/Energy,$104.57,$414.40B,Quarterly,$130.26,24.57%,Moderate Buy 2.65,$9.32,10.38
+AVGOBroadcom,Computer and Technology,$978.87,$404.01B,Quarterly,$858.05,-12.34%,Moderate Buy 2.74,$37.83,30.1
+TCEHYTencent,Computer and Technology,$41.66,$396.10B,,$212.50,410.08%,Moderate Buy 2.67,$1.92,14.77
+"LVMUYLVMH Moët Hennessy - Louis Vuitton, Société Européenne",Consumer Discretionary,$154.74,$388.43B,,$0.00,,Hold 2.40,$6.97,
+MAMastercard,Business Services,$412.50,$386.83B,Quarterly,$450.09,9.11%,Moderate Buy 2.90,$12.16,35.93
+JNJJohnson & Johnson,Medical,$152.50,$367.11B,Quarterly,$169.19,10.94%,Hold 2.43,$10.10,11.32
+PGProcter & Gamble,Consumer Staples,$151.38,$356.79B,Quarterly,$166.41,9.93%,Moderate Buy 2.67,$6.42,24.57
+IVViShares Core S&P 500 ETF,,$457.44,$353.90B,,$0.00,,,,18.43
+LTMAYLATAM Airlines Group,Transportation,$0.57,$342.08B,,$0.00,,Hold 2.00,,
+VOOVanguard S&P 500 ETF,,$418.37,$334.71B,,$0.00,,,,19.8
+ORCLOracle,Computer and Technology,$116.25,$318.45B,Quarterly,$124.23,6.87%,Moderate Buy 2.58,$4.48,34.6
+VTIVanguard Total Stock Market ETF,,$225.38,$317.79B,,$0.00,,,,18.8
+HDHome Depot,Retail/Wholesale,$310.70,$309.23B,Quarterly,$339.57,9.29%,Moderate Buy 2.58,$15.05,19.94
+NSRGYNestlé,Consumer Staples,$113.94,$304.23B,,$124.00,8.83%,Hold 2.33,$5.49,
+SCMWYSwisscom,Utilities,$58.53,$303.20B,,$0.00,,Hold 2.14,$3.74,16.35
+ADBEAdobe,Computer and Technology,$619.43,$282.03B,,$603.22,-2.62%,Moderate Buy 2.73,$12.81,55.75
+CVXChevron,Oils/Energy,$144.90,$273.53B,Quarterly,$187.89,29.67%,Moderate Buy 2.82,$13.59,10.76
+ASMLASML,Computer and Technology,$691.18,$272.73B,,$770.17,11.43%,Moderate Buy 2.64,$20.62,33.54
+FERGYFerguson,Industrials,$119.49,$268.91B,,$0.00,,,$0.57,183.83
+COSTCostco Wholesale,Retail/Wholesale,$591.36,$261.82B,Quarterly,$586.43,-0.83%,Moderate Buy 2.77,$15.72,41.76
+"MRKMerck & Co., Inc.",Medical,$101.87,$258.14B,Quarterly,$125.14,22.85%,Moderate Buy 2.76,$1.37,56.59
+TMToyota Motor,Auto/Tires/Trucks,$188.30,$255.11B,Annually,$0.00,,Moderate Buy 2.50,$19.31,9.21
+KOCoca-Cola,Consumer Staples,$58.57,$253.22B,Quarterly,$66.20,13.03%,Moderate Buy 2.73,$2.68,23.52
+LRLCYL'Oréal,Consumer Staples,$94.30,$252.72B,,$0.00,,Reduce 1.88,$2.58,
+ABBVAbbVie,Medical,$138.67,$244.83B,Quarterly,$167.69,20.93%,Moderate Buy 2.50,$11.24,37.99
+BACBank of America,Finance,$29.73,$235.28B,Quarterly,$35.54,19.54%,Hold 2.47,$3.43,8.33
+PEPPepsiCo,Consumer Staples,$169.37,$232.86B,Quarterly,$187.57,10.75%,Hold 2.46,$7.55,28.23
+PEPPepsiCo,Consumer Staples,$169.37,$232.86B,Quarterly,$187.57,10.75%,Hold 2.46,$7.55,28.23
+PROSYProsus,Retail/Wholesale,$6.64,$226.99B,,$0.00,,Moderate Buy 2.67,$1.56,
+QQQInvesco QQQ,Finance,$389.51,$221.75B,Quarterly,$0.00,,,,
+SHELShell,Oils/Energy,$65.99,$219.29B,Quarterly,$67.00,1.53%,Hold 2.20,$8.27,7.82
+CRMSalesforce,Computer and Technology,$224.38,$218.32B,,$243.39,8.47%,Moderate Buy 2.65,$5.86,141.12
+NFLXNetflix,Consumer Discretionary,$479.56,$209.89B,,$441.20,-8.00%,Moderate Buy 2.61,$12.09,47.86
+ACNAccenture,Business Services,$334.04,$209.76B,Quarterly,$337.26,0.96%,Moderate Buy 2.59,$12.10,31.02
+NVSNovartis,Medical,$98.14,$208.02B,Annually,$85.00,-13.39%,Hold 2.43,$6.66,26.38
+MCDMcDonald's,Retail/Wholesale,$282.54,$204.94B,Quarterly,$316.66,12.07%,Moderate Buy 2.85,$11.75,24.87
+BABAAlibaba Group,Retail/Wholesale,$78.49,$201.39B,,$130.53,66.31%,Buy 3.00,$8.00,10.87
+LINLinde,Basic Materials,$414.22,$200.85B,Quarterly,$425.00,2.60%,Moderate Buy 2.92,$14.11,34.2
+AZNAstraZeneca,Medical,$64.50,$199.94B,Annually,$80.00,24.03%,Moderate Buy 2.71,$3.65,33.95
+AZNAstraZeneca,Medical,$64.50,$199.94B,Annually,$80.00,24.03%,Moderate Buy 2.71,$3.65,33.95
+CSCOCisco Systems,Computer and Technology,$48.36,$196.51B,Quarterly,$58.38,20.71%,Hold 2.27,$3.57,14.61
+AMDAdvanced Micro Devices,Computer and Technology,$122.31,$195.70B,,$134.77,10.18%,Moderate Buy 2.87,$1.92,1019.33
+TMOThermo Fisher Scientific,Medical,$490.78,$189.62B,Quarterly,$593.94,21.02%,Moderate Buy 2.88,$21.52,32.16
+INTCIntel,Computer and Technology,$43.96,$185.34B,Quarterly,$35.68,-18.84%,Hold 2.07,$0.22,-109.9
+SAPSAP,Computer and Technology,$154.19,$181.88B,Annually,$146.29,-5.13%,Moderate Buy 2.50,$3.90,29.65
+ABTAbbott Laboratories,Medical,$102.87,$178.59B,Quarterly,$117.47,14.19%,Moderate Buy 2.69,$4.44,34.99
+DISWalt Disney,Consumer Discretionary,$96.06,$175.82B,,$108.95,13.42%,Moderate Buy 2.75,$4.62,75.05
+TMUST-Mobile US,Computer and Technology,$148.98,$172.29B,,$181.06,21.53%,Buy 3.00,$7.13,23.13
+PFEPfizer,Medical,$30.50,$172.22B,Quarterly,$42.50,39.34%,Hold 2.35,$1.54,16.67
+IDCBYIndustrial and Commercial Bank of China,Finance,$9.65,$171.97B,,$0.00,,Hold 2.00,,3.42
+CMCSAComcast,Consumer Discretionary,$42.58,$171.39B,Quarterly,$49.43,16.10%,Moderate Buy 2.59,$3.93,11.8
+TTETotalEnergies,Oils/Energy,$68.78,$168.82B,Quarterly,$59.33,-13.73%,Hold 2.33,$9.76,8.77
+NKENIKE,Consumer Discretionary,$107.64,$163.82B,Quarterly,$122.17,13.50%,Moderate Buy 2.59,$3.74,33.22
+DHRDanaher,Multi-Sector Conglomerates,$221.41,$163.61B,Quarterly,$257.73,16.41%,Moderate Buy 2.82,$8.36,27.92
+INTUIntuit,Computer and Technology,$564.07,$158.11B,Quarterly,$567.41,0.59%,Moderate Buy 2.86,$11.25,66.83
+VZVerizon Communications,Computer and Technology,$37.41,$157.28B,Quarterly,$41.50,10.93%,Moderate Buy 2.58,$4.70,7.54
+BHPBHP Group,Basic Materials,$62.01,$157.07B,Annually,$37.33,-39.79%,Hold 2.33,$5.68,
+PDDPDD,Retail/Wholesale,$118.70,$156.63B,,$122.25,2.99%,Buy 3.00,$3.92,29.45
+WFCWells Fargo & Company,Finance,$42.92,$155.87B,Quarterly,$48.31,12.56%,Moderate Buy 2.56,$5.06,9.27
+HSBCHSBC,Finance,$38.62,$154.75B,Quarterly,$560.00,"1,350.03%",Moderate Buy 2.56,$6.74,5.6
+TKOMYTokio Marine,Finance,$25.05,$153.31B,,$0.00,,,$1.46,13.99
+PMPhilip Morris International,Consumer Staples,$94.34,$146.45B,Quarterly,$109.36,15.92%,Moderate Buy 2.70,$6.16,18.32
+CICHYChina Construction Bank,Finance,$11.68,$145.94B,,$0.00,,Buy 3.00,,
+QCOMQUALCOMM,Computer and Technology,$127.75,$142.57B,Quarterly,$137.85,7.91%,Moderate Buy 2.63,$7.15,19.9
+AMGNAmgen,Medical,$265.46,$142.07B,Quarterly,$278.15,4.78%,Hold 2.40,$18.62,18.87
+IBMInternational Business Machines,Computer and Technology,$155.18,$141.70B,Quarterly,$149.09,-3.92%,Hold 2.36,$9.45,20.58
+TXNTexas Instruments,Computer and Technology,$153.59,$139.49B,Quarterly,$173.57,13.01%,Hold 2.17,$6.99,19.95
+NOWServiceNow,Computer and Technology,$673.90,$138.15B,,$614.77,-8.77%,Moderate Buy 2.93,$4.06,87.29
+COPConocoPhillips,Oils/Energy,$115.49,$137.13B,Quarterly,$135.63,17.44%,Moderate Buy 2.86,$9.09,12.62
+UNPUnion Pacific,Transportation,$224.28,$136.72B,Quarterly,$238.96,6.55%,Moderate Buy 2.67,$10.24,21.52
+CHDRYChristian Dior,Retail/Wholesale,$184.37,$133.12B,,$0.00,,,,
+BABoeing,Aerospace,$220.00,$133.09B,,$249.38,13.35%,Moderate Buy 2.80,($5.89),-46.81
+SIEGYSiemens Aktiengesellschaft,Industrial Products,$82.62,$132.19B,,$0.00,,Moderate Buy 2.50,$5.34,12.15
+SPGIS&P Global,Business Services,$415.10,$131.50B,Quarterly,$420.18,1.22%,Buy 3.00,$12.56,53.7
+GEGeneral Electric,Multi-Sector Conglomerates,$119.97,$130.57B,Quarterly,$122.93,2.47%,Moderate Buy 2.77,$2.65,13.53
+UPSUnited Parcel Service,Transportation,$152.03,$129.52B,Quarterly,$188.91,24.26%,Hold 2.25,$8.81,15.39
+MSMorgan Stanley,Finance,$78.65,$129.09B,Quarterly,$94.18,19.74%,Moderate Buy 2.56,$5.58,14.1
+ACGBYAgricultural Bank of China,Finance,$9.18,$128.48B,,$0.00,,,,3.58
+HONHoneywell International,Multi-Sector Conglomerates,$193.41,$127.51B,Quarterly,$213.00,10.13%,Hold 2.22,$9.16,23.97
+HONHoneywell International,Multi-Sector Conglomerates,$193.41,$127.51B,Quarterly,$213.00,10.13%,Hold 2.22,$9.16,23.97
+AMATApplied Materials,Computer and Technology,$150.34,$126.22B,Quarterly,$161.84,7.65%,Moderate Buy 2.70,$7.54,18.54
+CATCaterpillar,Industrial Products,$247.36,$125.93B,Quarterly,$266.80,7.86%,Hold 2.28,$20.58,14.01
+RYRoyal Bank of Canada,Finance,$87.63,$122.89B,Quarterly,$121.80,38.99%,Hold 2.17,$8.18,11.37
+ULUnilever,Consumer Staples,$47.93,$119.84B,Quarterly,$0.00,,Reduce 1.67,$2.81,
+AXPAmerican Express,Finance,$164.42,$119.82B,Quarterly,$171.42,4.26%,Hold 2.28,$11.21,15.42
+SNYSanofi,Medical,$47.18,$119.34B,Annually,$60.00,27.17%,Moderate Buy 2.63,$4.37,14.79
+SNYSanofi,Medical,$47.18,$119.34B,Annually,$60.00,27.17%,Moderate Buy 2.63,$4.37,14.79
+NEENextEra Energy,Utilities,$57.55,$118.08B,Quarterly,$74.08,28.72%,Moderate Buy 2.71,$3.12,15.22
+SBUXStarbucks,Retail/Wholesale,$102.78,$116.83B,Quarterly,$114.52,11.43%,Moderate Buy 2.55,$4.15,28.71
+EADSYAirbus,Aerospace,$36.83,$116.45B,,$0.00,,Hold 2.13,$1.55,27.49
+TAT&T,Computer and Technology,$16.21,$115.90B,Quarterly,$20.90,28.93%,Moderate Buy 2.58,$2.44,-10.53
+RTXRTX,Aerospace,$79.98,$115.00B,Quarterly,$90.21,12.79%,Hold 2.00,$5.00,37.2
+LOWLowe's Companies,Retail/Wholesale,$199.07,$114.89B,Quarterly,$236.56,18.83%,Moderate Buy 2.50,$13.00,15.35
+CMWAYCommonwealth Bank of Australia,Finance,$68.52,$114.81B,,$0.00,,,$3.66,
+UBERUber Technologies,Computer and Technology,$55.32,$113.84B,,$56.44,2.02%,Buy 3.00,$0.37,112.9
+VEAVanguard FTSE Developed Markets ETF,,$45.91,$112.94B,,$0.00,,,,11.4
+ELVElevance Health,Medical,$478.73,$112.48B,Quarterly,$565.82,18.19%,Moderate Buy 2.83,$33.06,18.8
+LMTLockheed Martin,Aerospace,$452.01,$112.14B,Quarterly,$484.07,7.09%,Hold 2.20,$27.19,16.51
+ISRGIntuitive Surgical,Medical,$318.01,$111.96B,,$342.71,7.77%,Moderate Buy 2.81,$4.54,74.83
+SYKStryker,Medical,$293.64,$111.55B,Quarterly,$311.30,6.02%,Moderate Buy 2.71,$10.41,43.57
+TDToronto-Dominion Bank,Finance,$61.49,$110.81B,Quarterly,$88.00,43.11%,Moderate Buy 2.67,$5.87,10.66
+HDBHDFC Bank,Finance,$59.50,$110.66B,Annually,$0.00,,Strong Buy 3.50,$2.78,18.31
+GSThe Goldman Sachs Group,Finance,$339.15,$110.60B,Quarterly,$393.76,16.10%,Moderate Buy 2.67,$22.98,16.42
+BUDAnheuser-Busch InBev SA/NV,Consumer Staples,$63.11,$109.63B,Annually,$69.50,10.13%,Moderate Buy 2.50,$3.03,20.23
+BKNGBooking,Retail/Wholesale,"$3,115.59",$108.70B,,"$3,346.21",7.40%,Moderate Buy 2.70,$149.27,21.69
+BLKBlackRock,Finance,$730.10,$108.61B,Quarterly,$764.75,4.75%,Moderate Buy 2.82,$36.44,20.48
+BACHYBank of China,Finance,$9.20,$108.33B,,$0.00,,Buy 3.00,,3.55
+SONYSony Group,Consumer Discretionary,$86.64,$106.93B,,$118.00,36.20%,Buy 3.00,$5.42,17.16
+DEDeere & Company,Industrial Products,$370.19,$106.62B,Quarterly,$445.57,20.36%,Moderate Buy 2.60,$32.76,10.68
+AAGIYAIA Group,Finance,$36.87,$105.44B,,$0.00,,Buy 3.00,$2.39,
+MDTMedtronic,Medical,$78.97,$105.07B,Quarterly,$93.33,18.19%,Hold 2.45,$5.16,25.72
+SBGSYSchneider Electric S.E.,Industrial Products,$36.44,$104.37B,,$0.00,,Hold 2.33,$1.66,
+PLDPrologis,Finance,$112.00,$103.48B,Quarterly,$139.00,24.11%,Moderate Buy 2.92,$5.60,34.57
+TJXTJX Companies,Retail/Wholesale,$89.97,$102.93B,Quarterly,$98.11,9.05%,Moderate Buy 2.87,$3.75,25.49
+BPBP,Oils/Energy,$35.82,$102.75B,Quarterly,$41.77,16.60%,Hold 2.36,$5.14,4.23
+EQNREquinor ASA,Oils/Energy,$32.91,$102.74B,Quarterly,$0.00,,Hold 2.23,$4.06,5.94
+ALIZYAllianz,Finance,$25.45,$102.64B,,$0.00,,Moderate Buy 2.60,$2.51,11.52
+MUFGMitsubishi UFJ Financial Group,Finance,$8.53,$102.57B,,$0.00,,Strong Buy 3.50,$0.78,7.83
+BMYBristol-Myers Squibb,Medical,$49.76,$101.25B,Quarterly,$63.59,27.79%,Hold 2.17,$7.56,12.63
+PBRPetróleo Brasileiro S.A. - Petrobras,Oils/Energy,$15.33,$99.98B,Quarterly,$15.34,0.05%,Moderate Buy 2.78,$3.83,3.72
+SCHWCharles Schwab,Finance,$56.43,$99.98B,Quarterly,$69.91,23.88%,Moderate Buy 2.60,$3.16,18.81
+VTVVanguard Value ETF,,$142.32,$99.66B,,$0.00,,,,15.3
+AIQUYL'Air Liquide,Basic Materials,$38.02,$99.56B,,$0.00,,Hold 2.00,$1.36,
+IEFAiShares Core MSCI EAFE ETF,,$67.67,$99.47B,,$0.00,,,,12.29
+MMCMarsh & McLennan Companies,Finance,$200.93,$99.07B,Quarterly,$201.38,0.23%,Hold 2.29,$7.93,28.95
+NTTYYNippon Telegraph and Telephone,Utilities,$28.93,$98.64B,,$0.00,,Hold 2.00,$0.10,11.62
+VUGVanguard Growth ETF,,$298.68,$97.81B,,$0.00,,,,28.6
+MDLZMondelez International,Consumer Staples,$71.62,$97.47B,Quarterly,$79.11,10.46%,Moderate Buy 2.87,$3.23,21.38
+BNDVanguard Total Bond Market ETF,,$70.56,$95.84B,Monthly,$0.00,,,,
+PGRProgressive,Finance,$163.72,$95.78B,Quarterly,$161.47,-1.38%,Hold 2.47,$5.44,35.51
+CIHKYChina Merchants Bank,Finance,$18.95,$95.56B,,$0.00,,Hold 2.00,,4.81
+ADPAutomatic Data Processing,Business Services,$230.66,$94.87B,Quarterly,$248.42,7.70%,Hold 2.00,$9.14,27.43
+LRCXLam Research,Computer and Technology,$717.50,$94.56B,Quarterly,$667.00,-7.04%,Moderate Buy 2.75,$27.65,24.4
+GILDGilead Sciences,Medical,$75.38,$93.93B,Quarterly,$88.22,17.04%,Hold 2.25,$6.75,16.18
+AGGiShares Core U.S. Aggregate Bond ETF,Finance,$95.15,$93.91B,,$0.00,,,,
+AMTAmerican Tower,Finance,$199.32,$92.92B,Quarterly,$228.60,14.69%,Moderate Buy 2.93,$9.30,130.28
+CBChubb,Finance,$227.04,$92.63B,Quarterly,$243.71,7.34%,Moderate Buy 2.71,$19.18,13.41
+ETNEaton,Industrial Products,$228.72,$91.33B,Quarterly,$219.23,-4.15%,Hold 2.42,$9.02,30.62
+PNGAYPing An Insurance (Group) Company of China,Finance,$9.99,$91.31B,,$0.00,,,$1.76,6.62
+VRTXVertex Pharmaceuticals,Medical,$353.04,$90.97B,,$376.13,6.54%,Moderate Buy 2.63,$13.64,26.48
+ADIAnalog Devices,Computer and Technology,$183.05,$90.84B,Quarterly,$204.96,11.97%,Moderate Buy 2.78,$7.35,27.99
+SHOPShopify,Computer and Technology,$70.35,$90.22B,,$65.09,-7.48%,Hold 2.46,,-77.31
+CVSCVS Health,Retail/Wholesale,$69.42,$89.34B,Quarterly,$92.59,33.37%,Moderate Buy 2.79,$8.59,10.47
+ESLOYEssilorLuxottica Société anonyme,Medical,$97.51,$88.46B,,$0.00,,Hold 2.40,$3.57,
+RIORio Tinto Group,Basic Materials,$69.72,$87.24B,Annually,$72.00,3.27%,Moderate Buy 2.83,$7.20,
+REGNRegeneron Pharmaceuticals,Medical,$798.30,$86.97B,,$903.64,13.20%,Moderate Buy 2.69,$35.55,22.77
+CCitigroup,Finance,$45.23,$86.56B,Quarterly,$51.28,13.38%,Hold 2.36,$5.86,7.17
+BYDDFBYD,Auto/Tires/Trucks,$29.69,$86.43B,,$0.00,,Buy 3.00,,58.22
+MUMicron Technology,Computer and Technology,$76.87,$84.41B,Quarterly,$77.75,1.14%,Moderate Buy 2.72,($2.52),-14.4
+CIThe Cigna Group,Medical,$287.85,$84.23B,Quarterly,$336.40,16.87%,Moderate Buy 2.64,$24.82,16.24
+PANWPalo Alto Networks,Computer and Technology,$266.08,$83.90B,,$276.58,3.94%,Moderate Buy 2.90,$2.52,151.18
+ABNBAirbnb,Computer and Technology,$128.37,$83.24B,,$141.94,10.57%,Hold 2.30,$4.15,15.52
+ZTSZoetis,Medical,$180.21,$82.74B,Quarterly,$216.29,20.02%,Buy 3.00,$5.41,36.63
+SNPSSynopsys,Computer and Technology,$542.69,$82.54B,,$506.45,-6.68%,Buy 3.00,$7.88,81.36
+CSLLYCSL,Medical,$85.30,$82.41B,,$0.00,,,$2.81,
+BSXBoston Scientific,Medical,$55.63,$81.50B,,$60.55,8.84%,Buy 3.00,$2.01,67.84
+DEODiageo,Consumer Staples,$142.95,$80.40B,Annually,$166.37,16.38%,Hold 2.14,$7.58,
+NPSNYNaspers,Consumer Discretionary,$36.66,$79.83B,,$0.00,,Buy 3.00,$1.53,
+LNEGYLundin Energy AB (publ),Basic Materials,$42.50,$78.94B,,$0.00,,,,
+IBNICICI Bank,Finance,$22.34,$78.27B,Annually,$0.00,,Buy 3.00,$1.31,17.59
+CMECME Group,Finance,$217.19,$78.19B,Quarterly,$220.00,1.29%,Moderate Buy 2.50,$9.14,25.92
+IBDRYIberdrola,Utilities,$48.98,$77.76B,,$0.00,,Hold 2.25,$3.00,15.75
+MELIMercadoLibre,Retail/Wholesale,"$1,535.50",$77.63B,,"$1,643.21",7.01%,Moderate Buy 2.82,$22.80,78.58
+BXBlackstone,Finance,$107.00,$76.03B,Quarterly,$110.22,3.01%,Moderate Buy 2.59,$3.90,44.96
+TOELYTokyo Electron,Computer and Technology,$80.50,$75.93B,,$0.00,,Buy 3.00,$2.18,20.5
+SOSouthern,Utilities,$69.61,$75.92B,Quarterly,$72.36,3.95%,Hold 2.42,$3.61,25.13
+KLACKLA,Computer and Technology,$555.64,$75.53B,Quarterly,$509.61,-8.28%,Hold 2.35,$23.34,24.92
+FIFiserv,Business Services,$125.80,$75.50B,,$142.62,13.37%,Moderate Buy 2.65,$7.49,26.32
+SAFRYSafran,Aerospace,$44.02,$75.23B,,$0.00,,Moderate Buy 2.50,$1.40,
+SLBSchlumberger,Oils/Energy,$52.60,$74.87B,Quarterly,$70.36,33.76%,Moderate Buy 2.93,$2.97,18.2
+CNICanadian National Railway,Transportation,$115.32,$74.78B,Quarterly,$128.83,11.72%,Hold 2.12,$5.31,21.08
+EQIXEquinix,Finance,$795.00,$74.64B,Quarterly,$829.85,4.38%,Moderate Buy 2.69,$28.28,85.48
+NTESNetEase,Computer and Technology,$115.41,$74.41B,Quarterly,$126.00,9.18%,Buy 3.00,$6.26,19.93
+ATLKYAtlas Copco,Industrial Products,$15.24,$74.23B,,$110.00,621.78%,Hold 2.00,$0.54,28.22
+IWFiShares Russell 1000 Growth ETF,,$290.98,$74.23B,,$0.00,,,,26.14
+CDNSCadence Design Systems,Computer and Technology,$270.61,$73.62B,,$264.50,-2.26%,Moderate Buy 2.90,$4.13,77.1
+MOAltria Group,Consumer Staples,$41.47,$73.35B,Quarterly,$47.53,14.62%,Hold 2.20,$4.96,8.45
+GSKGSK,Medical,$35.81,$73.32B,Quarterly,$37.44,4.54%,Hold 2.00,$3.91,9.63
+ABBNYABB,Industrial Products,$38.73,$72.89B,,$0.00,,Sell 1.00,$1.97,18.44
+ITWIllinois Tool Works,Industrial Products,$241.85,$72.77B,Quarterly,$238.25,-1.49%,Reduce 1.92,$9.68,23.46
+ENBEnbridge,Oils/Energy,$34.23,$72.76B,Quarterly,$51.96,51.79%,Hold 2.00,$2.06,30.84
+VWOVanguard FTSE Emerging Markets ETF,,$40.60,$72.67B,,$0.00,,,,10.0
+RELXRelx,Computer and Technology,$38.40,$72.53B,Annually,$0.00,,Moderate Buy 2.75,$1.35,
+ZURVYZurich Insurance Group,Finance,$49.41,$72.31B,,$0.00,,Reduce 1.83,$3.64,
+INFYInfosys,Computer and Technology,$17.47,$72.31B,Annually,$18.93,8.38%,Hold 2.25,$0.70,24.26
+VCISYVinci,Construction,$30.22,$72.26B,,$0.00,,Buy 3.00,$2.22,
+BNPQYBNP Paribas,Finance,$31.20,$72.17B,,$0.00,,Buy 3.00,$4.99,6.67
+EOGEOG Resources,Oils/Energy,$123.50,$72.02B,Quarterly,$147.68,19.58%,Moderate Buy 2.76,$12.15,9.18
+BOUYFBouygues,Industrial Products,$37.65,$72.01B,,$30.00,-20.32%,Reduce 1.60,,12.15
+IEMGiShares Core MSCI Emerging Markets ETF,,$49.58,$71.89B,,$0.00,,,,12.26
+FISVFiserv,Computer and Technology,$125.80,$71.75B,,$0.00,,,,33.19
+KDDIYKDDI,Computer and Technology,$15.50,$71.38B,,$0.00,,,$1.19,13.48
+NOCNorthrop Grumman,Aerospace,$471.52,$71.10B,Quarterly,$500.20,6.08%,Hold 2.44,$22.73,15.47
+SHECYShin-Etsu Chemical,Basic Materials,$17.51,$70.88B,,$0.00,,,$0.93,13.03
+CNQCanadian Natural Resources,Oils/Energy,$65.32,$70.77B,Quarterly,$71.00,8.70%,Moderate Buy 2.57,$5.70,13.69
+SHWSherwin-Williams,Construction,$275.83,$70.60B,Quarterly,$287.44,4.21%,Moderate Buy 2.53,$10.30,29.53
+IJHiShares Core S&P Mid-Cap ETF,,$255.70,$70.60B,,$0.00,,,,14.63
+AXAHYAXA,Finance,$31.22,$70.41B,,$0.00,,Moderate Buy 2.50,$3.22,
+VIGVanguard Dividend Appreciation ETF,,$164.01,$70.06B,,$0.00,,,,20.1
+DUKDuke Energy,Utilities,$90.74,$69.93B,Quarterly,$98.55,8.60%,Hold 2.30,$5.59,57.8
+"BDXBecton, Dickinson and Company",Medical,$238.89,$69.37B,Quarterly,$283.86,18.82%,Moderate Buy 2.86,$12.84,48.16
+WMWaste Management,Business Services,$172.01,$69.28B,Quarterly,$179.77,4.51%,Moderate Buy 2.62,$5.98,30.44
+GLNCYGlencore,Basic Materials,$11.26,$69.13B,,$0.00,,Buy 3.00,$0.93,
+MBGAFMercedes-Benz Group,Auto/Tires/Trucks,$64.06,$68.54B,,$0.00,,,$13.64,4.23
+ANETArista Networks,Computer and Technology,$218.39,$67.94B,,$214.72,-1.68%,Moderate Buy 2.89,$5.80,36.4
+GDGeneral Dynamics,Aerospace,$247.83,$67.63B,Quarterly,$263.43,6.29%,Moderate Buy 2.70,$12.58,20.72
+VALEVale,Basic Materials,$15.06,$67.52B,Annually,$17.23,14.38%,Moderate Buy 2.55,$2.11,7.21
+HCAHCA Healthcare,Medical,$252.18,$67.50B,Quarterly,$296.59,17.61%,Moderate Buy 2.88,$18.16,12.4
+IJRiShares Core S&P Small-Cap ETF,,$96.37,$67.31B,,$0.00,,,,12.11
+CPCanadian Pacific Kansas City,Transportation,$72.19,$67.27B,Quarterly,$96.56,33.75%,Moderate Buy 2.76,$2.80,21.68
+MCOMoody's,Finance,$362.38,$66.32B,Quarterly,$351.54,-2.99%,Moderate Buy 2.54,$10.03,44.09
+AONAON,Finance,$330.02,$66.08B,Quarterly,$344.08,4.26%,Hold 2.17,$14.36,25.1
+SANBanco Santander,Finance,$4.08,$66.03B,Annually,$0.00,,Hold 2.33,$0.69,6.18
+HTHIYHitachi,Multi-Sector Conglomerates,$140.18,$65.76B,,$0.00,,Strong Buy 4.00,$7.62,7.27
+SMFGSumitomo Mitsui Financial Group,Finance,$9.83,$65.74B,,$0.00,,Hold 2.00,$0.86,11.43
+BTIBritish American Tobacco,Consumer Staples,$32.33,$65.17B,Quarterly,$0.00,,Moderate Buy 2.50,$4.73,
+VWAGYVolkswagen,Auto/Tires/Trucks,$12.95,$64.92B,,$0.00,,Hold 2.20,$3.26,3.63
+FDXFedEx,Transportation,$257.61,$64.77B,Quarterly,$282.54,9.68%,Moderate Buy 2.70,$18.14,15.71
+CSXCSX,Transportation,$32.64,$64.50B,Quarterly,$36.00,10.29%,Moderate Buy 2.68,$1.83,17.36
+STLAStellantis,Auto/Tires/Trucks,$20.46,$64.10B,,$25.85,26.34%,Moderate Buy 2.83,$6.17,
+ICEIntercontinental Exchange,Finance,$114.39,$63.94B,Quarterly,$132.42,15.76%,Moderate Buy 2.70,$5.57,26.54
+HUMHumana,Medical,$518.26,$63.80B,Quarterly,$590.28,13.90%,Moderate Buy 2.73,$28.28,21.49
+CLColgate-Palmolive,Consumer Staples,$77.31,$63.65B,Quarterly,$82.57,6.81%,Moderate Buy 2.67,$3.21,40.27
+TRIThomson Reuters,Business Services,$138.79,$63.22B,,$144.29,3.96%,Hold 2.13,$3.41,27.97
+PDRDYPernod Ricard,Consumer Staples,$47.12,$62.53B,,$43.06,-8.62%,Hold 2.00,$1.67,
+DASTYDassault Systèmes,Computer and Technology,$46.70,$62.43B,,$0.00,,Hold 2.40,$1.14,55.6
+BMWYYBayerische Motoren Werke Aktiengesellschaft,Auto/Tires/Trucks,$34.31,$62.03B,,$0.00,,Reduce 1.67,$6.99,
+WDAYWorkday,Computer and Technology,$236.61,$61.99B,,$248.88,5.19%,Moderate Buy 2.73,$1.13,-492.94
+VMWVMware,Computer and Technology,$142.48,$61.52B,,$160.25,12.47%,Hold 2.00,$4.92,43.05
+MCKMcKesson,Medical,$461.37,$61.39B,Quarterly,$472.83,2.48%,Moderate Buy 2.89,$27.25,18.23
+MARMarriott International,Consumer Discretionary,$208.93,$61.36B,Quarterly,$213.93,2.39%,Hold 2.33,$8.58,22.13
+SFTBYSoftBank Group,Computer and Technology,$20.86,$61.33B,,$0.00,,Hold 2.20,$0.39,-3.83
+DBSDYDBS Group,Finance,$95.09,$61.31B,,$0.00,,Moderate Buy 2.50,$11.78,
+KKRKohlberg Kravis Roberts & Co. L.P.,Finance,$69.20,$61.24B,Quarterly,$73.86,6.73%,Moderate Buy 2.92,$2.86,22.84
+DPSGYDeutsche Post,Industrials,$49.33,$61.12B,,$0.00,,Reduce 1.80,$3.56,11.75
+APDAir Products and Chemicals,Basic Materials,$274.50,$61.00B,Quarterly,$320.31,16.69%,Moderate Buy 2.50,$12.98,26.6
+UNCFFUniCredit,Finance,$27.57,$60.96B,,$0.00,,,$3.89,
+CMGChipotle Mexican Grill,Retail/Wholesale,"$2,219.67",$60.92B,,"$2,161.33",-2.63%,Moderate Buy 2.76,$44.04,52.65
+ITUBItaú Unibanco,Finance,$6.21,$60.86B,Monthly,$6.10,-1.77%,Hold 2.00,$0.73,9.86
+TGTTarget,Retail/Wholesale,$131.46,$60.68B,Quarterly,$154.39,17.44%,Hold 2.45,$8.29,16.77
+BAMXFBayerische Motoren Werke Aktiengesellschaft,Auto/Tires/Trucks,$100.50,$60.50B,,$0.00,,,$20.78,5.42
+RCRRFRecruit,Business Services,$37.50,$60.36B,,$0.00,,,$1.31,26.79
+PYPLPayPal,Computer and Technology,$55.76,$60.12B,,$78.77,41.26%,Moderate Buy 2.56,$3.84,16.6
+CHTRCharter Communications,Consumer Discretionary,$405.92,$60.04B,,$501.52,23.55%,Moderate Buy 2.53,$32.17,13.25
+NTDOYNintendo,Consumer Discretionary,$11.48,$59.64B,,$0.00,,Moderate Buy 2.50,$0.62,15.73
+VXUSVanguard Total International Stock ETF,,$55.94,$58.98B,Quarterly,$0.00,,,,11.1
+BMOBank of Montreal,Finance,$81.66,$58.88B,Quarterly,$122.00,49.40%,Moderate Buy 2.50,$8.61,10.82
+EENI,Oils/Energy,$32.92,$58.79B,,$0.00,,Hold 2.44,$5.11,9.98
+ORLYO'Reilly Automotive,Retail/Wholesale,$987.16,$58.40B,,"$1,007.63",2.07%,Moderate Buy 2.73,$38.20,26.26
+MURGYMünchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,Finance,$42.66,$58.22B,,$0.00,,Moderate Buy 2.50,$3.54,10.91
+EPDEnterprise Products Partners,Oils/Energy,$26.74,$58.08B,Quarterly,$31.08,16.24%,Moderate Buy 2.92,$2.50,10.91
+USBU.S. Bancorp,Finance,$37.20,$57.92B,Quarterly,$45.90,23.40%,Hold 2.45,$4.32,11.07
+NABZYNational Australia Bank,Finance,$9.22,$57.72B,,$0.00,,,$0.80,
+MNSTMonster Beverage,Consumer Staples,$55.17,$57.40B,,$60.77,10.16%,Moderate Buy 2.73,$1.56,37.15
+SCCOSouthern Copper,Basic Materials,$74.21,$57.37B,Quarterly,$65.17,-12.19%,Reduce 1.75,$3.39,19.9
+AMXAmérica Móvil,Computer and Technology,$18.08,$56.86B,,$22.21,22.87%,Hold 2.44,$1.48,14.82
+GLDSPDR Gold Shares,Finance,$185.52,$56.82B,,$0.00,,,,
+MPCMarathon Petroleum,Oils/Energy,$149.50,$56.76B,Quarterly,$157.92,5.63%,Moderate Buy 2.69,$22.24,5.58
+CTASCintas,Industrial Products,$554.90,$56.52B,Quarterly,$534.40,-3.69%,Moderate Buy 2.69,$14.35,41.75
+SNOWSnowflake,Computer and Technology,$171.16,$56.43B,,$189.52,10.72%,Moderate Buy 2.69,($1.62),-64.35
+IWMiShares Russell 2000 ETF,Finance,$179.33,$56.27B,,$0.00,,,,
+BNBrookfield,Finance,$34.32,$56.25B,,$43.78,27.56%,Moderate Buy 2.90,,-1143.62
+ROPRoper Technologies,Computer and Technology,$525.59,$56.14B,Quarterly,$529.20,0.69%,Moderate Buy 2.73,$16.66,19.22
+PHParker-Hannifin,Industrial Products,$433.67,$55.72B,Quarterly,$450.71,3.93%,Moderate Buy 2.75,$23.23,24.08
+CHGCYChugai Pharmaceutical,Medical,$16.91,$55.63B,,$0.00,,Buy 3.00,$0.66,23.16
+PXDPioneer Natural Resources,Oils/Energy,$237.69,$55.46B,Quarterly,$258.45,8.74%,Hold 2.32,$21.65,11.35
+"MITSYMitsui & Co., Ltd.",Industrial Products,$730.42,$55.20B,,$0.00,,,$84.46,7.38
+VGTVanguard Information Technology ETF,,$459.76,$54.91B,,$0.00,,,,24.7
+LULULululemon Athletica,Consumer Discretionary,$431.76,$54.86B,,$445.94,3.28%,Moderate Buy 2.87,$12.15,54.65
+PPRUYKering,Retail/Wholesale,$44.45,$54.86B,,$0.00,,Hold 2.20,$2.81,
+AJGArthur J. Gallagher & Co.,Finance,$252.92,$54.61B,Quarterly,$246.77,-2.43%,Moderate Buy 2.90,$8.79,48.45
+BBVABanco Bilbao Vizcaya Argentaria,Finance,$9.12,$54.41B,Annually,$0.00,,Moderate Buy 2.50,$1.35,7.13
+HMCHonda Motor,Auto/Tires/Trucks,$31.63,$54.11B,,$0.00,,Hold 2.40,$4.07,7.53
+APHAmphenol,Computer and Technology,$90.36,$54.06B,Quarterly,$94.00,4.03%,Moderate Buy 2.75,$2.96,29.15
+DELLDell Technologies,Computer and Technology,$74.41,$53.83B,Quarterly,$71.00,-4.58%,Moderate Buy 2.71,$5.36,28.73
+VOVanguard Mid-Cap ETF,,$216.52,$53.73B,,$0.00,,,,17.6
+TDGTransDigm Group,Aerospace,$970.73,$53.69B,,$997.54,2.76%,Moderate Buy 2.71,$30.48,44.08
+BNSBank of Nova Scotia,Finance,$44.22,$53.69B,Quarterly,$69.33,56.79%,Reduce 1.75,$5.04,9.29
+ECLEcolab,Basic Materials,$187.24,$53.39B,Quarterly,$194.64,3.95%,Hold 2.15,$5.18,43.44
+XLKTechnology Select Sector SPDR Fund,,$184.41,$53.37B,,$0.00,,Hold 2.00,,20.04
+MSIMotorola Solutions,Computer and Technology,$320.84,$53.26B,Quarterly,$312.57,-2.58%,Moderate Buy 2.57,$10.64,32.44
+ECIFYElectricité de France,Utilities,$2.55,$53.16B,,$0.00,,,,
+MMM3M,Multi-Sector Conglomerates,$95.95,$52.99B,Quarterly,$104.30,8.70%,Reduce 1.80,$9.12,-7.19
+OXYOccidental Petroleum,Oils/Energy,$60.16,$52.96B,Quarterly,$71.53,18.90%,Hold 2.47,$4.14,13.16
+FCXFreeport-McMoRan,Basic Materials,$36.84,$52.83B,Quarterly,$42.50,15.36%,Hold 2.27,$1.45,24.89
+ISNPYIntesa Sanpaolo,Finance,$17.13,$52.20B,,$0.00,,Moderate Buy 2.67,$2.60,
+PSXPhillips 66,Oils/Energy,$118.63,$52.19B,Quarterly,$132.50,11.69%,Moderate Buy 2.79,$15.45,7.16
+TTTrane Technologies,Business Services,$228.56,$52.01B,Quarterly,$207.31,-9.30%,Hold 2.27,$9.01,26.92
+INGING Groep,Finance,$13.94,$51.95B,Annually,$0.00,,Hold 2.00,$2.24,6.83
+BNDXVanguard Total International Bond ETF,,$48.72,$51.78B,Monthly,$0.00,,,,
+APOApollo Global Management,Finance,$91.14,$51.73B,Quarterly,$95.82,5.13%,Moderate Buy 2.70,$6.21,19.27
+NXPINXP Semiconductors,Computer and Technology,$200.12,$51.58B,Quarterly,$223.88,11.87%,Hold 2.40,$12.58,18.55
+PNCThe PNC Financial Services Group,Finance,$128.70,$51.27B,Quarterly,$150.99,17.32%,Hold 2.25,$13.86,8.93
+RSGRepublic Services,Business Services,$160.40,$50.47B,Quarterly,$160.36,-0.02%,Hold 2.45,$5.47,31.03
+EMREmerson Electric,Industrial Products,$88.51,$50.46B,Quarterly,$104.61,18.19%,Moderate Buy 2.76,$5.25,3.86
+CRWDCrowdStrike,Computer and Technology,$210.66,$50.30B,,$195.10,-7.39%,Moderate Buy 2.93,$0.32,-513.8
+IWDiShares Russell 1000 Value ETF,,$156.17,$49.88B,,$0.00,,,,13.53
+WELLWelltower,Finance,$89.62,$49.60B,Quarterly,$88.38,-1.38%,Moderate Buy 2.85,$3.61,186.71
+UNCRYUniCredit,Finance,$13.73,$49.01B,,$17.00,23.82%,Hold 2.33,$2.45,
+NSCNorfolk Southern,Transportation,$215.86,$48.81B,Quarterly,$237.15,9.86%,Moderate Buy 2.62,$11.81,23.67
+CPRTCopart,Business Services,$50.81,$48.79B,,$44.40,-12.62%,Moderate Buy 2.80,$1.44,37.22
+RBGLYReckitt Benckiser Group,Consumer Staples,$13.60,$48.75B,,"$6,086.00","44,650.00%",Hold 2.00,$0.81,
+EFAiShares MSCI EAFE ETF,Finance,$72.56,$48.72B,,$0.00,,,,
+DNZOYDENSO,Auto/Tires/Trucks,$16.26,$48.70B,,$0.00,,,$1.18,19.13
+VYMVanguard High Dividend Yield ETF,,$106.01,$48.70B,,$0.00,,,,13.8
+AFLAflac,Finance,$82.94,$48.47B,Quarterly,$79.63,-4.00%,Hold 2.25,$6.30,10.93
+MRVLMarvell Technology,Business Services,$56.03,$48.34B,Quarterly,$66.11,17.99%,Moderate Buy 2.95,$0.88,-127.34
+IFNNYInfineon Technologies,Computer and Technology,$36.92,$48.21B,,$0.00,,Moderate Buy 2.50,$2.62,14.48
+PCARPACCAR,Auto/Tires/Trucks,$92.00,$48.12B,Quarterly,$82.32,-10.53%,Hold 2.43,$8.99,11.75
+NGGNational Grid,Utilities,$64.97,$47.92B,Annually,$0.00,,Moderate Buy 2.75,$4.16,
+AZOAutoZone,Retail/Wholesale,"$2,688.00",$47.40B,,"$2,797.63",4.08%,Moderate Buy 2.79,$147.87,20.26
+SCHDSchwab US Dividend Equity ETF,,$71.80,$47.26B,,$0.00,,,,14.38
+PCGPG&E,Utilities,$18.02,$47.05B,,$18.63,3.36%,Moderate Buy 2.60,$1.21,20.95
+METMetLife,Finance,$63.55,$47.04B,Quarterly,$75.45,18.73%,Moderate Buy 2.82,$7.50,23.36
+TEAMAtlassian,Computer and Technology,$181.59,$46.86B,,$202.19,11.34%,Moderate Buy 2.59,($0.21),-92.65
+VLVLYAB Volvo (publ),Auto/Tires/Trucks,$22.81,$46.38B,,$0.00,,Hold 2.40,$2.64,11.13
+PRNDYPernod Ricard,Consumer Staples,$35.95,$46.37B,,$0.00,,,$1.94,
+SRESempra,Utilities,$73.67,$46.36B,Quarterly,$80.85,9.75%,Moderate Buy 2.67,$4.55,17.03
+AIGAmerican International Group,Finance,$65.21,$45.78B,Quarterly,$69.07,5.91%,Hold 2.47,$6.63,12.49
+ITOTiShares Core S&P Total U.S. Stock Market ETF,,$99.91,$45.71B,,$0.00,,,,17.44
+KDPKeurig Dr Pepper,Consumer Staples,$32.62,$45.61B,Quarterly,$37.20,14.04%,Moderate Buy 2.78,$1.78,23.64
+KDPKeurig Dr Pepper,Consumer Staples,$32.62,$45.61B,Quarterly,$37.20,14.04%,Moderate Buy 2.78,$1.78,23.64
+MCHPMicrochip Technology,Computer and Technology,$83.26,$45.04B,Quarterly,$94.13,13.05%,Moderate Buy 2.65,$5.18,18.3
+CCICrown Castle,Finance,$103.58,$44.92B,Quarterly,$126.00,21.65%,Hold 2.40,$7.14,28.93
+PSAPublic Storage,Finance,$255.03,$44.84B,Quarterly,$299.83,17.57%,Moderate Buy 2.71,$16.78,23.38
+HESHess,Oils/Energy,$145.41,$44.66B,Quarterly,$173.06,19.01%,Moderate Buy 2.50,$5.06,28.02
+ROSTRoss Stores,Retail/Wholesale,$131.09,$44.66B,Quarterly,$130.70,-0.30%,Moderate Buy 2.78,$5.36,25.96
+CMPGYCompass Group,Retail/Wholesale,$26.07,$44.58B,,"$1,165.00","4,368.40%",Moderate Buy 2.80,$1.21,
+BCMXYBank of Communications,Finance,$14.97,$44.47B,,$0.00,,,,3.54
+CARRCarrier Global,Computer and Technology,$52.98,$44.45B,Quarterly,$57.63,8.77%,Hold 2.25,$2.71,37.57
+TAKTakeda Pharmaceutical,Medical,$14.04,$44.43B,,$21.33,51.95%,Buy 3.00,$0.40,19.5
+ELEstée Lauder Companies,Consumer Staples,$123.91,$44.34B,Quarterly,$178.48,44.04%,Hold 2.43,$2.30,81.52
+FMXFomento Económico Mexicano,Consumer Staples,$123.72,$44.27B,Annually,$125.20,1.20%,Moderate Buy 2.67,$5.69,11.57
+WMBWilliams Companies,Oils/Energy,$36.32,$44.18B,Quarterly,$36.33,0.04%,Hold 2.36,$2.13,16.29
+BASFYBasf,Basic Materials,$12.21,$44.17B,,$0.00,,Reduce 1.60,$0.85,-14.54
+CRHCRH,Construction,$61.76,$44.16B,Annually,$44.38,-28.15%,Moderate Buy 2.75,$4.47,
+ODFLOld Dominion Freight Line,Transportation,$404.32,$44.12B,Quarterly,$393.58,-2.66%,Hold 2.32,$11.19,35.97
+DANOYDanone,Consumer Staples,$12.98,$43.99B,,$0.00,,Reduce 1.83,$0.75,
+VBVanguard Small-Cap ETF,,$193.33,$43.86B,,$0.00,,,,12.8
+LILi Auto,Auto/Tires/Trucks,$41.27,$43.79B,,$70.42,70.64%,Buy 3.00,$0.91,49.13
+STZConstellation Brands,Consumer Staples,$238.37,$43.79B,Quarterly,$277.38,16.37%,Moderate Buy 2.82,$11.87,29.03
+MFGMizuho Financial Group,Finance,$3.44,$43.66B,,$0.00,,Buy 3.00,$0.34,9.56
+DXCMDexCom,Medical,$112.95,$43.64B,,$130.93,15.92%,Moderate Buy 2.93,$1.43,124.12
+HLTHilton Worldwide,Consumer Discretionary,$169.82,$43.55B,Quarterly,$162.71,-4.18%,Hold 2.46,$6.08,34.17
+ADSKAutodesk,Computer and Technology,$203.42,$43.48B,,$234.21,15.14%,Moderate Buy 2.62,$4.68,47.86
+ABEVAmbev,Consumer Staples,$2.75,$43.31B,,$3.30,20.00%,Moderate Buy 2.75,$0.17,15.28
+ETEnergy Transfer,Oils/Energy,$13.72,$43.15B,Quarterly,$16.50,20.26%,Buy 3.00,$1.20,12.94
+KHCKraft Heinz,Consumer Staples,$34.94,$42.86B,Quarterly,$40.50,15.91%,Hold 2.25,$2.96,14.44
+PAYXPaychex,Business Services,$118.50,$42.81B,Quarterly,$121.63,2.64%,Reduce 1.80,$4.70,26.87
+LNGCheniere Energy,Oils/Energy,$179.21,$42.70B,,$196.00,9.37%,Buy 3.08,$17.58,3.55
+BIDUBaidu,Computer and Technology,$123.40,$42.64B,,$178.72,44.83%,Buy 3.00,$7.89,14.12
+VLOValero Energy,Oils/Energy,$124.96,$42.54B,Quarterly,$153.64,22.95%,Moderate Buy 2.71,$24.84,4.26
+TLTiShares 20+ Year Treasury Bond ETF,,$89.80,$42.51B,Monthly,$0.00,,,,
+DHID.R. Horton,Construction,$127.48,$42.47B,Quarterly,$135.71,6.45%,Moderate Buy 2.60,$14.50,9.21
+SUSuncor Energy,Oils/Energy,$32.72,$42.47B,Quarterly,$45.20,38.14%,Moderate Buy 2.50,$3.91,7.11
+TFCTruist Financial,Finance,$31.78,$42.38B,Quarterly,$37.51,18.04%,Hold 2.41,$3.76,8.01
+OVCHYOversea-Chinese Banking,Finance,$18.80,$42.25B,,$0.00,,Hold 2.33,$2.32,
+MSCIMSCI,Computer and Technology,$528.35,$41.79B,Quarterly,$563.86,6.72%,Hold 2.38,$13.14,44.03
+PLTRPalantir Technologies,Business Services,$19.20,$41.78B,,$13.25,-30.99%,Reduce 1.80,$0.10,320.05
+FFord Motor,Auto/Tires/Trucks,$10.40,$41.63B,Quarterly,$14.42,38.62%,Hold 2.38,$1.91,6.8
+RSPInvesco S&P 500 Equal Weight ETF,,$146.91,$41.53B,,$0.00,,,,16.13
+KMBKimberly-Clark,Consumer Staples,$122.43,$41.37B,Quarterly,$131.93,7.76%,Reduce 1.92,$6.59,23.54
+DLRDigital Realty Trust,Finance,$136.50,$41.34B,Quarterly,$121.71,-10.83%,Hold 2.25,$6.61,47.56
+HCMLYHolcim,Construction,$14.26,$41.29B,,$88.00,517.11%,Hold 2.25,$1.13,
+AEPAmerican Electric Power,Utilities,$78.50,$41.28B,Quarterly,$91.50,16.56%,Moderate Buy 2.64,$5.28,18.0
+AEPAmerican Electric Power,Utilities,$78.50,$41.28B,Quarterly,$91.50,16.56%,Moderate Buy 2.64,$5.28,18.0
+BAESYBAE Systems,Aerospace,$54.32,$41.24B,,$475.00,774.53%,Moderate Buy 2.80,$3.09,
+EWEdwards Lifesciences,Medical,$67.90,$41.18B,,$84.29,24.14%,Hold 2.39,$2.51,29.02
+FTNTFortinet,Computer and Technology,$53.43,$41.03B,,$65.90,23.34%,Hold 2.46,$1.28,36.85
+NRDBYNordea Bank Abp,Finance,$11.47,$40.80B,,$0.00,,,$1.47,7.7
+TELTE Connectivity,Computer and Technology,$131.06,$40.73B,Quarterly,$142.14,8.46%,Hold 2.38,$7.38,21.77
+CORCencora,Medical,$201.30,$40.70B,Quarterly,$197.36,-1.96%,Moderate Buy 2.80,$12.88,23.6
+COFCapital One Financial,Finance,$106.57,$40.59B,Quarterly,$105.51,-0.99%,Hold 2.00,$12.61,8.01
+TRVTravelers Companies,Finance,$177.54,$40.55B,Quarterly,$192.00,8.14%,Hold 2.46,$11.08,19.21
+GWWW.W. Grainger,Industrial Products,$812.30,$40.32B,Quarterly,$749.57,-7.72%,Hold 2.29,$36.37,22.65
+SGENSeagen,Medical,$214.45,$40.25B,,$193.00,-10.00%,Hold 2.35,($3.86),-53.48
+JDJD.com,Retail/Wholesale,$28.76,$40.17B,,$44.57,54.98%,Moderate Buy 2.53,$2.62,13.63
+CNCCentene,Medical,$74.36,$39.72B,,$83.39,12.14%,Hold 2.40,$6.66,16.71
+IDXXIDEXX Laboratories,Medical,$478.18,$39.71B,,$548.14,14.63%,Moderate Buy 2.71,$9.85,48.79
+HOCPYHOYA,Computer and Technology,$113.00,$39.66B,,$0.00,,Buy 3.00,$3.18,34.98
+ADMArcher-Daniels-Midland,Consumer Staples,$74.30,$39.63B,Quarterly,$92.90,25.03%,Moderate Buy 2.57,$7.26,10.35
+MRAAYMurata Manufacturing,Industrial Products,$9.76,$39.58B,,$0.00,,Moderate Buy 2.50,$0.38,22.18
+HLNHaleon,Medical,$8.57,$39.57B,,$0.00,,Moderate Buy 2.67,$0.45,
+CEGConstellation Energy,Oils/Energy,$123.86,$39.56B,Quarterly,$102.00,-17.65%,Moderate Buy 2.50,$5.64,23.77
+SPGSimon Property Group,Finance,$120.84,$39.42B,Quarterly,$128.90,6.67%,Moderate Buy 2.57,$12.17,17.9
+DDominion Energy,Utilities,$46.96,$39.30B,Quarterly,$50.17,6.83%,Hold 2.25,$2.93,23.96
+OKEONEOK,Oils/Energy,$67.32,$39.22B,Quarterly,$75.00,11.41%,Hold 2.38,$5.48,12.35
+HSYHershey,Consumer Staples,$191.68,$39.20B,Quarterly,$246.05,28.36%,Hold 2.47,$9.54,20.68
+XLVHealth Care Select Sector SPDR Fund,,$131.13,$39.18B,,$0.00,,,,15.12
+CRARYCrédit Agricole,Finance,$6.40,$39.08B,,$0.00,,Sell 1.00,$0.94,6.04
+ORealty Income,Finance,$53.91,$39.03B,Monthly,$60.90,12.97%,Hold 2.18,$4.01,40.84
+EXCExelon,Utilities,$39.19,$39.01B,Quarterly,$43.00,9.72%,Moderate Buy 2.50,$2.36,18.31
+EXCExelon,Utilities,$39.19,$39.01B,Quarterly,$43.00,9.72%,Moderate Buy 2.50,$2.36,18.31
+VCITVanguard Intermediate-Term Corporate Bond ETF,,$77.61,$38.97B,,$0.00,,,,
+KVUEKenvue,Consumer Staples,$20.25,$38.78B,Quarterly,$26.92,32.92%,Moderate Buy 2.57,$1.26,
+ADDYYadidas,Consumer Discretionary,$101.09,$38.74B,,$0.00,,Moderate Buy 2.80,($0.22),-187.2
+IQVIQVIA,Medical,$212.01,$38.69B,,$236.57,11.59%,Moderate Buy 2.86,$9.20,35.63
+NUENucor,Basic Materials,$157.16,$38.64B,Quarterly,$164.56,4.71%,Hold 2.30,$17.94,7.97
+GMGeneral Motors,Auto/Tires/Trucks,$28.18,$38.59B,Quarterly,$50.67,79.80%,Moderate Buy 2.71,$7.10,3.96
+KMIKinder Morgan,Oils/Energy,$17.35,$38.57B,Quarterly,$20.38,17.44%,Hold 2.18,$1.10,15.77
+NUNU,Business Services,$8.21,$38.54B,,$8.80,7.19%,Moderate Buy 2.78,$0.22,102.64
+SWGAYThe Swatch Group,Consumer Staples,$13.20,$38.51B,,$0.00,,Hold 2.00,$1.04,
+TRPTC Energy,Oils/Energy,$37.11,$38.50B,Quarterly,$58.44,57.49%,Hold 2.36,$2.75,-618.5
+GISGeneral Mills,Consumer Staples,$65.18,$37.89B,Quarterly,$74.94,14.98%,Hold 2.13,$4.48,15.9
+LVSLas Vegas Sands,Consumer Discretionary,$48.92,$37.40B,Quarterly,$69.68,42.43%,Moderate Buy 2.86,$1.91,55.59
+DASHDoorDash,Computer and Technology,$93.81,$37.36B,,$94.18,0.40%,Hold 2.33,($1.20),-34.87
+NGLOYAnglo American,Basic Materials,$13.95,$37.32B,,$20.09,44.01%,Moderate Buy 2.67,$1.24,
+DDOGDatadog,Computer and Technology,$112.87,$37.08B,,$109.17,-3.28%,Moderate Buy 2.67,$0.14,-940.5
+AAgilent Technologies,Computer and Technology,$126.62,$37.05B,Quarterly,$137.67,8.72%,Moderate Buy 2.53,$5.48,30.08
+BSVVanguard Short-Term Bond ETF,,$75.71,$36.96B,,$0.00,,,,
+EAElectronic Arts,Consumer Discretionary,$136.60,$36.74B,Quarterly,$141.75,3.77%,Moderate Buy 2.58,$5.29,37.63
+CMCanadian Imperial Bank of Commerce,Finance,$39.43,$36.71B,Quarterly,$58.50,48.36%,Hold 2.25,$4.92,10.74
+SQBlock,Business Services,$59.65,$36.63B,,$75.07,25.85%,Moderate Buy 2.73,($0.15),-126.91
+VCSHVanguard Short-Term Corporate Bond ETF,,$75.90,$36.55B,,$0.00,,,,
+BKBank of New York Mellon,Finance,$47.35,$36.42B,Quarterly,$52.40,10.67%,Hold 2.33,$4.87,11.12
+SYYSysco,Consumer Staples,$72.15,$36.39B,Quarterly,$83.30,15.45%,Moderate Buy 2.82,$4.33,20.32
+ADYEYAdyen,Business Services,$11.73,$36.39B,,$0.00,,Hold 2.36,$0.21,
+JSHLYJardine Strategic,Conglomerates,$16.40,$36.35B,,$0.00,,,,
+LENLennar,Construction,$127.63,$36.29B,Quarterly,$133.82,4.85%,Moderate Buy 2.50,$13.59,9.46
+ALCAlcon,Medical,$73.52,$36.25B,,$92.54,25.87%,Moderate Buy 2.89,$2.73,81.69
+DOWDOW,Basic Materials,$51.67,$36.24B,Quarterly,$56.79,9.90%,Hold 2.33,$2.18,28.39
+LHXL3Harris Technologies,Aerospace,$191.01,$36.20B,Quarterly,$222.75,16.62%,Moderate Buy 2.69,$12.33,24.55
+BCEBCE,Utilities,$39.68,$36.20B,Quarterly,$56.50,42.39%,Hold 2.17,$2.32,21.92
+XLFFinancial Select Sector SPDR Fund,,$35.38,$36.09B,Quarterly,$0.00,,,,12.16
+AMEAMETEK,Computer and Technology,$156.18,$36.05B,Quarterly,$173.75,11.25%,Moderate Buy 2.75,$6.33,28.29
+YUMYum! Brands,Retail/Wholesale,$128.51,$36.02B,Quarterly,$145.39,13.13%,Hold 2.44,$5.31,24.43
+MPLXMplx,Oils/Energy,$35.93,$35.97B,Quarterly,$39.75,10.63%,Moderate Buy 2.75,$3.65,10.3
+ALLAllstate,Finance,$136.61,$35.75B,Quarterly,$135.50,-0.81%,Moderate Buy 2.64,($1.97),-17.23
+CTSHCognizant Technology Solutions,Computer and Technology,$71.17,$35.69B,Quarterly,$68.94,-3.14%,Hold 2.00,$4.40,17.32
+JCIJohnson Controls International,Industrial Products,$52.40,$35.65B,Quarterly,$68.08,29.93%,Moderate Buy 2.67,$3.54,17.53
+IVWiShares S&P 500 Growth ETF,,$72.68,$35.61B,,$0.00,,,,22.15
+AMPAmeriprise Financial,Finance,$351.42,$35.56B,Quarterly,$385.50,9.70%,Moderate Buy 2.60,$29.39,14.3
+SPOTSpotify Technology,Business Services,$181.70,$35.37B,,$169.50,-6.71%,Moderate Buy 2.67,($2.15),-45.43
+PPERYPT Bank Mandiri (Persero) Tbk,Finance,$15.14,$35.33B,,$0.00,,,,
+XLEEnergy Select Sector SPDR Fund,,$84.93,$35.31B,,$0.00,,,,6.92
+BBDBanco Bradesco,Finance,$3.30,$35.17B,Monthly,$3.07,-7.07%,Hold 2.25,$0.36,15.72
+MFCManulife Financial,Finance,$19.39,$35.14B,Quarterly,$26.83,38.39%,Hold 2.33,$2.45,9.7
+VEUVanguard FTSE All-World ex-US ETF,,$54.32,$34.99B,,$0.00,,,,11.2
+FASTFastenal,Retail/Wholesale,$60.96,$34.83B,Quarterly,$57.71,-5.32%,Hold 2.00,$2.00,30.63
+OTISOtis Worldwide,Construction,$85.04,$34.80B,Quarterly,$88.29,3.82%,Hold 2.17,$3.52,25.69
+MSBHFMitsubishi,Multi-Sector Conglomerates,$47.11,$34.78B,,$0.00,,,$4.58,9.65
+VRSKVerisk Analytics,Business Services,$239.54,$34.73B,Quarterly,$248.23,3.63%,Moderate Buy 2.50,$5.72,70.45
+CSGPCoStar Group,Computer and Technology,$84.78,$34.62B,,$90.09,6.26%,Moderate Buy 2.89,$1.05,85.64
+PRUPrudential Financial,Finance,$95.74,$34.56B,Quarterly,$103.00,7.58%,Hold 2.10,$11.71,61.77
+CGEMYCapgemini,Business Services,$39.80,$34.54B,,$0.00,,Hold 2.33,$2.40,
+DSDVYDSV A/S,Transportation,$78.70,$34.47B,,$0.00,,Hold 2.33,$4.21,18.22
+SCHXSchwab US Large-Cap ETF,,$53.84,$34.46B,,$0.00,,,,18.28
+IBKRInteractive Brokers Group,Finance,$81.80,$34.44B,Quarterly,$112.43,37.44%,Moderate Buy 2.86,$5.74,14.9
+WCNWaste Connections,Business Services,$133.31,$34.35B,Quarterly,$159.07,19.32%,Moderate Buy 2.87,$4.16,41.4
+WTKWYWolters Kluwer,Consumer Staples,$137.99,$34.29B,,$0.00,,Hold 2.33,$4.69,
+FERGFerguson,Industrial Products,$167.74,$34.22B,Annually,$164.20,-2.11%,Moderate Buy 2.64,$9.69,18.39
+EONGYE.On,Utilities,$12.93,$34.15B,,$0.00,,Moderate Buy 2.60,$1.23,-43.1
+BKRBaker Hughes,Oils/Energy,$33.89,$34.10B,Quarterly,$39.56,16.74%,Moderate Buy 2.87,$1.57,20.42
+HALHalliburton,Oils/Energy,$38.06,$34.07B,Quarterly,$49.00,28.74%,Buy 3.07,$3.07,13.08
+UOVEYUnited Overseas Bank,Finance,$40.67,$34.06B,,$0.00,,Moderate Buy 2.50,$4.96,
+GVDNYGivaudan,Basic Materials,$73.76,$34.05B,,$0.00,,Hold 2.20,$2.09,
+DNHBYDnb Asa,Finance,$21.83,$33.84B,,$0.00,,,$1.67,16.66
+LYGLloyds Banking Group,Finance,$2.13,$33.84B,Annually,$90.20,"4,134.74%",Reduce 1.67,$0.38,5.46
+SMCAYSMC,Computer and Technology,$25.82,$33.74B,,$0.00,,Buy 3.00,$0.99,22.85
+EXPGYExperian,Business Services,$36.69,$33.71B,,$0.00,,Reduce 1.75,$1.45,
+BIIBBiogen,Medical,$231.95,$33.61B,,$326.08,40.58%,Moderate Buy 2.83,$14.92,23.06
+GEHCGE HealthCare Technologies,Medical,$73.71,$33.56B,Quarterly,$88.44,19.99%,Moderate Buy 2.62,$3.81,21.94
+ARESAres Management,Finance,$109.22,$33.55B,Quarterly,$110.83,1.48%,Moderate Buy 2.55,$3.58,50.8
+XELXcel Energy,Utilities,$60.52,$33.40B,Quarterly,$64.55,6.65%,Hold 2.42,$3.35,19.15
+ITGartner,Business Services,$426.85,$33.27B,,$363.20,-14.91%,Hold 2.20,$11.06,36.7
+CVECenovus Energy,Oils/Energy,$17.67,$33.27B,Quarterly,$15.54,-12.08%,Moderate Buy 2.75,$1.76,11.18
+DKNGDraftKings,Consumer Discretionary,$38.70,$33.25B,,$35.43,-8.45%,Moderate Buy 2.64,($1.50),-17.75
+CAIXYCaixaBank,Finance,$1.47,$33.08B,,$0.00,,Moderate Buy 2.60,$0.21,
+TTDTrade Desk,Computer and Technology,$67.27,$32.98B,,$82.71,22.95%,Moderate Buy 2.77,$0.42,217.0
+CTVACorteva,Consumer Staples,$46.67,$32.89B,Quarterly,$65.32,39.95%,Moderate Buy 2.80,$2.61,35.9
+FISFidelity National Information Services,Business Services,$55.50,$32.88B,Quarterly,$66.00,18.92%,Moderate Buy 2.55,$3.55,-1.36
+PEGPublic Service Enterprise Group,Utilities,$65.09,$32.44B,Quarterly,$64.15,-1.44%,Moderate Buy 2.60,$3.46,11.6
+MUBiShares National Muni Bond ETF,,$105.38,$32.39B,,$0.00,,,,
+ORANOrange,Computer and Technology,$12.17,$32.36B,Annually,$13.08,7.44%,Buy 3.00,$1.23,
+ACGLArch Capital Group,Finance,$86.60,$32.32B,,$88.08,1.71%,Moderate Buy 2.71,$7.70,11.16
+PPGPPG Industries,Basic Materials,$136.45,$32.17B,Quarterly,$155.44,13.92%,Moderate Buy 2.50,$7.64,22.86
+PUKPrudential,Finance,$23.36,$32.16B,Annually,$0.00,,Buy 3.00,$1.69,
+IXUSiShares Core MSCI Total International Stock ETF,Manufacturing,$62.76,$32.11B,Other,$0.00,,,,11.82
+IMOImperial Oil,Oils/Energy,$57.60,$31.96B,,$62.83,9.09%,Hold 2.17,$5.57,8.71
+CMICummins,Auto/Tires/Trucks,$225.49,$31.96B,Quarterly,$264.50,17.30%,Hold 2.14,$19.96,11.49
+SCHFSchwab International Equity ETF,,$35.72,$31.96B,,$0.00,,,,11.88
+QUALiShares MSCI USA Quality Factor ETF,,$141.17,$31.93B,,$0.00,,,,16.3
+NDAQNasdaq,Finance,$55.30,$31.91B,Quarterly,$61.09,10.47%,Hold 2.44,$2.78,24.8
+KRKroger,Retail/Wholesale,$44.18,$31.78B,Quarterly,$52.57,18.99%,Hold 2.25,$4.52,19.72
+URIUnited Rentals,Construction,$467.31,$31.67B,Quarterly,$455.25,-2.58%,Moderate Buy 2.50,$40.90,13.55
+IWBiShares Russell 1000 ETF,,$249.96,$31.64B,,$0.00,,,,17.92
+LQDiShares iBoxx $ Investment Grade Corporate Bond ETF,Finance,$104.72,$31.49B,Monthly,$0.00,,,,
+EDConsolidated Edison,Utilities,$90.96,$31.40B,Quarterly,$87.54,-3.76%,Reduce 1.83,$4.96,13.48
+ROKRockwell Automation,Industrial Products,$273.00,$31.31B,Quarterly,$299.20,9.60%,Hold 2.07,$12.83,22.83
+VTMXCorporación Inmobiliaria Vesta,Finance,$37.92,$31.00B,,$39.00,2.85%,Moderate Buy 2.50,$3.00,8.68
+BBDOBanco Bradesco,Finance,$2.90,$30.91B,Monthly,$0.00,,,,13.81
+DDDuPont de Nemours,Basic Materials,$71.52,$30.76B,Quarterly,$79.00,10.46%,Moderate Buy 2.67,$3.46,7.4
+VNQVanguard Real Estate ETF,,$79.76,$30.75B,,$0.00,,,,28.4
+GFSGLOBALFOUNDRIES,Computer and Technology,$55.96,$30.65B,,$74.50,33.13%,Moderate Buy 2.93,$1.90,21.95
+LYBLyondellBasell Industries,Basic Materials,$94.13,$30.53B,Quarterly,$102.07,8.43%,Moderate Buy 2.50,$8.71,13.49
+MIELFMitsubishi Electric,Industrials,$14.05,$30.17B,,$0.00,,,,15.61
+SLFSun Life Financial,Finance,$51.43,$30.05B,Quarterly,$73.13,42.18%,Moderate Buy 2.67,$4.58,12.45
+MRNAModerna,Medical,$78.52,$29.94B,,$143.02,82.14%,Hold 2.17,($5.94),-8.4
+ALIOFALIOF,Medical,$278.50,$29.89B,,$0.00,,,,
+MSBHYMitsubishi,Conglomerates,$40.23,$29.89B,,$0.00,,Buy 3.00,,8.65
+NEMNewmont,Basic Materials,$37.59,$29.88B,Quarterly,$55.54,47.76%,Moderate Buy 2.75,$1.72,-36.5
+DIASPDR Dow Jones Industrial Average ETF Trust,Finance,$353.80,$29.87B,Monthly,$0.00,,,,
+ONON Semiconductor,Computer and Technology,$69.28,$29.84B,,$98.88,42.73%,Moderate Buy 2.54,$5.13,13.97
+HENKYHenkel AG & Co. KGaA,Consumer Staples,$17.22,$29.71B,,$0.00,,Reduce 1.60,$1.15,
+BDORYBANCO DO BRASIL/S,Finance,$10.35,$29.66B,,$0.00,,Buy 3.00,$2.50,4.6
+VICIVICI Properties,Finance,$28.66,$29.65B,Quarterly,$35.36,23.39%,Moderate Buy 2.70,$2.17,11.99
+LZAGYLonza Group,Medical,$39.72,$29.58B,,$0.00,,Moderate Buy 2.80,$1.62,
+GPNGlobal Payments,Business Services,$112.63,$29.33B,Quarterly,$145.46,29.15%,Moderate Buy 2.69,$9.76,33.72
+ANPDFANTA Sports Products,Consumer Discretionary,$10.35,$29.32B,,$0.00,,,$0.52,
+ARGXargenx,Medical,$494.79,$29.23B,,$547.11,10.57%,Moderate Buy 2.79,($4.76),-118.94
+USMViShares MSCI USA Min Vol Factor ETF,,$75.96,$29.14B,,$0.00,,,,20.17
+CHTChunghwa Telecom,Utilities,$37.55,$29.13B,Annually,$0.00,,,,24.23
+MDBMongoDB,Computer and Technology,$407.70,$29.09B,,$419.74,2.95%,Moderate Buy 2.85,($2.17),-117.83
+CPNGCoupang,Retail/Wholesale,$16.26,$29.07B,,$22.50,38.38%,Moderate Buy 2.50,$0.28,67.75
+DVNDevon Energy,Oils/Energy,$45.35,$29.06B,Quarterly,$58.06,28.02%,Moderate Buy 2.67,$5.92,7.75
+CDWCDW,Computer and Technology,$216.69,$29.03B,Quarterly,$213.20,-1.61%,Moderate Buy 2.78,$9.32,27.05
+VVVanguard Large-Cap ETF,,$209.03,$28.97B,,$0.00,,,,20.0
+VTVanguard Total World Stock ETF,,$98.33,$28.95B,,$0.00,,,,14.2
+IRIngersoll Rand,Industrial Products,$71.33,$28.87B,Quarterly,$71.10,-0.32%,Moderate Buy 2.80,$2.72,38.14
+TLSYYTelstra,Utilities,$12.48,$28.84B,,$0.00,,,$0.55,
+AMKBYA.P. Møller - Mærsk A/S,Transportation,$7.70,$28.80B,,"$30,800.00","400,029.91%",Reduce 1.80,$1.08,2.92
+BF.BBrown-Forman,Consumer Staples,$59.75,$28.64B,Quarterly,$69.05,15.56%,Hold 2.20,$2.00,37.58
+HVRRYHannover Rück,Finance,$118.62,$28.61B,,$0.00,,Moderate Buy 2.50,$8.38,14.96
+SYMSymbotic,Business Services,$51.43,$28.59B,,$51.92,0.96%,Moderate Buy 2.67,($0.02),-139.0
+MLMMartin Marietta Materials,Construction,$462.00,$28.55B,Quarterly,$471.79,2.12%,Moderate Buy 2.67,$18.33,26.81
+CQPCheniere Energy Partners,Oils/Energy,$58.88,$28.50B,,$48.83,-17.06%,Reduce 1.50,$2.55,5.8
+GOLDBarrick Gold,Basic Materials,$16.23,$28.49B,Quarterly,$23.87,47.05%,Moderate Buy 2.62,$0.81,541.0
+GOLDBarrick Gold,Basic Materials,$16.23,$28.49B,Quarterly,$23.87,47.05%,Moderate Buy 2.62,$0.81,541.0
+ZSZscaler,Computer and Technology,$193.09,$28.42B,,$187.03,-3.14%,Moderate Buy 2.75,($1.11),-136.94
+ASAZYASSA ABLOY AB (publ),Industrial Products,$12.77,$28.42B,,$325.00,"2,445.03%",Hold 2.17,$0.58,20.6
+VEEVVeeva Systems,Computer and Technology,$176.57,$28.37B,,$218.83,23.93%,Moderate Buy 2.63,$2.72,53.18
+RWEOYRWE Aktiengesellschaft,Utilities,$41.92,$28.35B,,$0.00,,Buy 3.00,$5.93,6.56
+IWRiShares Russell Mid-Cap ETF,,$71.81,$28.34B,,$0.00,,,,15.16
+JEPIJPMorgan Equity Premium Income ETF,,$54.69,$28.33B,,$0.00,,,,21.55
+HPQHP,Computer and Technology,$28.64,$28.30B,Quarterly,$30.80,7.54%,Hold 2.33,$3.44,8.71
+BRDCYBridgestone,Auto/Tires/Trucks,$20.13,$28.13B,,$0.00,,Buy 3.00,$1.89,
+VMCVulcan Materials,Construction,$211.68,$28.13B,Quarterly,$239.21,13.01%,Moderate Buy 2.79,$6.87,34.31
+PDYPYFlutter Entertainment,Consumer Staples,$79.42,$28.08B,,$87.98,10.78%,Moderate Buy 2.63,$2.64,
+BCSBarclays,Finance,$7.22,$28.08B,Annually,$0.00,,Moderate Buy 2.50,$1.45,4.22
+CCEPCoca-Cola Europacific Partners,Consumer Staples,$61.24,$27.97B,,$65.96,7.70%,Moderate Buy 2.75,$3.87,
+IEFiShares 7-10 Year Treasury Bond ETF,,$92.27,$27.84B,Monthly,$0.00,,,,
+SGAPYSingapore Telecommunications,Utilities,$16.83,$27.79B,,$0.00,,Moderate Buy 2.50,,
+NTRNutrien,Basic Materials,$55.99,$27.69B,Quarterly,$77.65,38.69%,Moderate Buy 2.50,$5.39,12.93
+FANGDiamondback Energy,Oils/Energy,$154.63,$27.68B,Quarterly,$184.35,19.22%,Moderate Buy 2.89,$18.81,8.78
+COINCoinbase Global,Finance,$115.54,$27.64B,,$75.64,-34.53%,Hold 2.04,($0.50),-35.77
+FANUYFanuc,Industrial Products,$13.74,$27.56B,,$0.00,,Reduce 1.50,$0.42,20.82
+PKXPOSCO,Basic Materials,$91.11,$27.56B,,$0.00,,Reduce 1.50,$7.03,12.89
+DGDollar General,Retail/Wholesale,$125.48,$27.54B,Quarterly,$143.64,14.47%,Hold 2.24,$7.44,12.86
+BILSPDR Bloomberg Barclays 1-3 Month T-Bill ETF,,$91.76,$27.50B,,$0.00,,,,
+VTEBVanguard Tax-Exempt Bond ETF,,$49.38,$27.28B,,$0.00,,,,
+MBBiShares MBS ETF,,$89.59,$27.19B,Other,$0.00,,,,
+LUXTYLuxottica Group,Consumer Discretionary,$55.80,$27.07B,,$0.00,,,,24.37
+SHYiShares 1-3 Year Treasury Bond ETF,Manufacturing,$81.29,$27.05B,Monthly,$0.00,,,,
+EXRExtra Space Storage,Finance,$127.12,$26.86B,Quarterly,$142.64,12.21%,Hold 2.25,$8.15,23.37
+RCLRoyal Caribbean Cruises,Consumer Discretionary,$104.45,$26.76B,,$111.93,7.16%,Moderate Buy 2.79,$6.59,32.64
+RYAAYRyanair,Transportation,$117.46,$26.76B,,$123.55,5.18%,Buy 3.14,$8.87,11.13
+ASHTYAshtead Group,Industrial Products,$244.28,$26.74B,,$0.00,,Moderate Buy 2.50,$17.19,16.11
+FJTSYFujitsu,Computer and Technology,$28.30,$26.65B,,$0.00,,Reduce 1.50,,20.51
+TTWOTake-Two Interactive Software,Consumer Discretionary,$156.32,$26.59B,,$152.88,-2.20%,Moderate Buy 2.77,$1.62,-17.47
+PWRQuanta Services,Construction,$182.58,$26.53B,Quarterly,$209.17,14.56%,Moderate Buy 2.88,$6.45,38.93
+MARUYMarubeni,Multi-Sector Conglomerates,$155.99,$26.50B,,$0.00,,,$17.17,7.71
+WBDWarner Bros. Discovery,Consumer Discretionary,$10.85,$26.46B,,$16.73,54.22%,Moderate Buy 2.63,($1.19),-5.48
+FICOFair Isaac,Computer and Technology,"$1,069.54",$26.43B,,$936.80,-12.41%,Moderate Buy 2.60,$19.61,63.17
+MPWRMonolithic Power Systems,Computer and Technology,$549.44,$26.32B,Quarterly,$551.08,0.30%,Moderate Buy 2.92,$9.18,59.53
+ECEcopetrol,Oils/Energy,$12.75,$26.21B,Annually,$12.35,-3.14%,Reduce 1.83,$2.29,5.47
+CAHCardinal Health,Medical,$106.27,$26.19B,Quarterly,$96.83,-8.88%,Hold 2.33,$6.89,174.21
+SSUMYSumitomo,Multi-Sector Conglomerates,$21.39,$26.16B,,$0.00,,,$2.74,7.35
+WSTWest Pharmaceutical Services,Medical,$353.26,$26.14B,Quarterly,$355.00,0.49%,Moderate Buy 2.60,$8.02,47.67
+EFXEquifax,Business Services,$210.74,$25.97B,Quarterly,$216.00,2.50%,Hold 2.43,$6.63,49.94
+IVEiShares S&P 500 Value ETF,,$164.20,$25.96B,,$0.00,,,,15.85
+ANSSANSYS,Computer and Technology,$297.90,$25.88B,,$313.90,5.37%,Hold 2.20,$6.47,53.77
+TUTELUS,Utilities,$17.74,$25.81B,Quarterly,$28.81,62.42%,Moderate Buy 2.50,$0.72,43.27
+DLTRDollar Tree,Retail/Wholesale,$117.32,$25.81B,,$149.22,27.19%,Moderate Buy 2.57,$5.97,21.33
+WECWEC Energy Group,Utilities,$81.60,$25.74B,Quarterly,$90.17,10.50%,Hold 2.20,$4.61,18.85
+AWKAmerican Water Works,Utilities,$132.06,$25.71B,Quarterly,$146.60,11.01%,Buy 3.00,$4.81,27.4
+SPLKSplunk,Computer and Technology,$151.93,$25.61B,,$132.68,-12.67%,Hold 2.23,$0.41,-460.39
+IAUiShares Gold Trust,Finance,$37.87,$25.58B,,$0.00,,,,
+SSEZYSSE,Computer and Technology,$23.38,$25.55B,,$0.00,,Moderate Buy 2.67,$1.87,
+TSCDYTesco,Retail/Wholesale,$10.73,$25.38B,,$0.00,,Moderate Buy 2.75,$0.88,
+SBACSBA Communications,Finance,$235.09,$25.36B,Quarterly,$279.12,18.73%,Moderate Buy 2.88,$12.22,51.78
+RYCEYRolls-Royce Holdings plc,Aerospace,$3.01,$25.33B,,$0.00,,Moderate Buy 2.75,$0.12,
+KMTUYKomatsu,Industrial Products,$25.97,$25.29B,,$0.00,,Buy 3.00,$2.76,9.08
+EIXEdison International,Utilities,$65.85,$25.26B,Quarterly,$71.42,8.45%,Hold 2.27,$4.71,20.51
+WTWWillis Towers Watson Public,Finance,$244.28,$25.22B,Quarterly,$258.00,5.62%,Moderate Buy 2.56,$14.14,25.85
+SWRAYSwire Pacific,Transportation,$6.65,$25.13B,,$65.00,877.44%,,$1.04,
+DBDeutsche Bank Aktiengesellschaft,Finance,$12.15,$25.11B,,$6.25,-48.56%,Hold 2.20,$2.12,5.04
+XYLXylem,Industrial Products,$103.26,$24.89B,Quarterly,$118.30,14.57%,Moderate Buy 2.58,$3.75,42.32
+ASMIYASM International,Computer and Technology,$504.01,$24.86B,,$0.00,,Hold 2.43,$13.12,26.17
+AEMAgnico Eagle Mines,Basic Materials,$49.82,$24.74B,Quarterly,$70.33,41.17%,Buy 3.00,$2.13,9.35
+CLPBYColoplast A/S,Medical,$11.45,$24.73B,,$0.00,,Hold 2.00,$0.32,40.89
+VODVodafone Group Public,Computer and Technology,$9.13,$24.72B,Annually,$99.73,992.28%,Moderate Buy 2.50,$0.63,
+PUGOYStellantis,Auto/Tires/Trucks,$27.28,$24.68B,,$0.00,,,$3.18,7.16
+NETCloudflare,Computer and Technology,$73.40,$24.65B,,$64.24,-12.48%,Hold 2.26,($0.28),-120.33
+AVBAvalonBay Communities,Finance,$173.37,$24.62B,Quarterly,$195.82,12.95%,Hold 2.38,$10.59,26.39
+VBRVanguard Small-Cap Value ETF,,$164.04,$24.58B,,$0.00,,,,10.4
+WITWipro,Computer and Technology,$4.70,$24.51B,,$4.30,-8.51%,Strong Sell 1.00,$0.25,18.08
+PCRFYPanasonic,Consumer Discretionary,$10.48,$24.46B,,$0.00,,Buy 3.00,$1.23,7.54
+KBCSYKBC Group,Finance,$29.21,$24.37B,,$0.00,,Reduce 1.50,$4.26,6.51
+KNYJYKONE Oyj,Industrial Products,$22.93,$24.28B,,$0.00,,Hold 2.00,$0.99,24.14
+KEYSKeysight Technologies,Computer and Technology,$136.04,$24.16B,,$171.18,25.83%,Moderate Buy 2.73,$6.95,22.98
+FUJIYFUJIFILM,Computer and Technology,$58.23,$24.14B,,$0.00,,,$4.00,13.6
+CBRECBRE Group,Finance,$79.01,$24.08B,,$90.43,14.45%,Moderate Buy 2.71,$3.70,42.25
+GLWCorning,Computer and Technology,$28.20,$24.06B,Quarterly,$34.89,23.72%,Moderate Buy 2.56,$1.71,41.47
+TRUMYTerumo,Medical,$32.16,$24.05B,,$0.00,,Moderate Buy 2.50,$0.95,36.97
+HEIHEICO,Aerospace,$173.90,$24.03B,Annually,$198.10,13.92%,Moderate Buy 2.75,$2.84,60.59
+TEFTelefónica,Utilities,$4.15,$23.97B,Annually,$0.00,,Reduce 1.80,$0.29,14.31
+TSCDDTesco,Consumer Defensive,$10.73,$23.92B,,$0.00,,,,
+GIBCGI,Computer and Technology,$101.24,$23.83B,,$117.25,15.81%,,$5.55,19.89
+GOVTiShares U.S. Treasury Bond ETF,,$22.22,$23.78B,,$0.00,,,,
+DGROiShares Core Dividend Growth ETF,,$51.33,$23.75B,,$0.00,,,,15.16
+FTVFortive,Computer and Technology,$67.55,$23.74B,Quarterly,$78.46,16.15%,Moderate Buy 2.58,$3.39,28.99
+MTDMettler-Toledo International,Computer and Technology,"$1,093.51",$23.71B,,"$1,302.29",19.09%,Hold 2.33,$39.20,27.87
+ZBHZimmer Biomet,Medical,$113.43,$23.70B,Quarterly,$139.85,23.29%,Hold 2.29,$7.51,50.19
+RDSMYKoninklijke DSM,Basic Materials,$33.85,$23.67B,,$0.00,,Buy 3.00,$0.97,
+JPSTJPMorgan Ultra-Short Income ETF,,$50.24,$23.61B,,$0.00,,,,
+SCHBSchwab US Broad Market ETF,,$52.88,$23.56B,,$0.00,,,,17.59
+HUBSHubSpot,Computer and Technology,$467.75,$23.54B,,$579.14,23.81%,Moderate Buy 2.86,($1.01),-129.93
+HNNMYH & M Hennes & Mauritz AB (publ),Retail/Wholesale,$3.28,$23.54B,,$0.00,,Hold 2.00,$0.10,41.01
+APTVAptiv,Business Services,$83.11,$23.51B,,$127.63,53.56%,Moderate Buy 2.80,$4.72,10.39
+HIGThe Hartford Financial Services Group,Finance,$78.15,$23.51B,Quarterly,$85.43,9.31%,Moderate Buy 2.50,$8.14,10.72
+BNTXBioNTech,Medical,$98.83,$23.49B,,$153.69,55.51%,Hold 2.40,$5.03,8.57
+CHDChurch & Dwight,Consumer Staples,$94.83,$23.36B,Quarterly,$95.25,0.44%,Hold 2.22,$3.16,54.19
+WYWeyerhaeuser,Construction,$31.94,$23.32B,Quarterly,$38.29,19.87%,Moderate Buy 2.86,$1.08,36.71
+MGDDYCompagnie Générale des Établissements Michelin Société en commandite par actions,Auto/Tires/Trucks,$16.28,$23.25B,,$0.00,,Hold 2.00,$1.60,
+DALDelta Air Lines,Transportation,$36.10,$23.23B,Quarterly,$54.40,50.69%,Buy 3.08,$6.10,6.84
+GRMNGarmin,Computer and Technology,$121.03,$23.16B,Quarterly,$127.80,5.59%,Moderate Buy 2.50,$5.27,22.33
+GRMNGarmin,Computer and Technology,$121.03,$23.16B,Quarterly,$127.80,5.59%,Moderate Buy 2.50,$5.27,22.33
+GRMNGarmin,Computer and Technology,$121.03,$23.16B,Quarterly,$127.80,5.59%,Moderate Buy 2.50,$5.27,22.33
+OCPNYOlympus,Medical,$18.00,$23.15B,,$0.00,,,$1.65,21.95
+BSBRBanco Santander (Brasil),Finance,$6.22,$23.13B,Quarterly,$5.60,-9.97%,Reduce 1.50,$0.55,
+NWGNatWest Group,Finance,$5.23,$23.10B,,$6.24,19.22%,Hold 2.20,$1.02,5.19
+RCIRogers Communications,Consumer Discretionary,$43.40,$22.94B,Quarterly,$72.33,66.67%,Buy 3.00,$3.19,29.32
+DSCSYDisco,Industrial Products,$21.13,$22.89B,,$0.00,,Moderate Buy 2.67,$0.46,38.19
+YAHOYLY,Retail/Wholesale,$5.99,$22.87B,,$0.00,,Hold 2.00,$0.25,17.62
+ASBFYAssociated British Foods,Consumer Staples,$29.88,$22.86B,,$0.00,,Moderate Buy 2.56,$2.17,
+TCOMTrip.com Group,Consumer Cyclical,$35.36,$22.84B,,$47.85,35.31%,Moderate Buy 2.82,$1.77,15.72
+MTSFFMitsui Fudosan,Real Estate,$22.96,$22.76B,,$0.00,,,,
+RMDResMed,Medical,$153.88,$22.63B,Quarterly,$202.33,31.49%,Moderate Buy 2.75,$7.29,24.98
+FNVFranco-Nevada,Basic Materials,$117.56,$22.59B,Quarterly,$161.11,37.05%,Hold 2.38,$3.35,33.21
+FRRVYFerrovial,Construction,$31.00,$22.55B,,$30.00,-3.23%,Buy 3.00,,
+EPOKYEpiroc AB (publ),Industrial Products,$18.56,$22.53B,,$0.00,,Hold 2.00,$0.74,24.75
+ATEYYAdvantest,Computer and Technology,$30.43,$22.46B,,$0.00,,Hold 2.00,$0.81,30.2
+TWTradeweb Markets,Finance,$95.36,$22.38B,Quarterly,$94.17,-1.25%,Moderate Buy 2.73,$2.13,55.44
+ICLRICON Public,Medical,$271.89,$22.38B,,$272.78,0.33%,Buy 3.00,$12.12,43.85
+NPSCYNippon Steel,Basic Materials,$7.85,$22.38B,,$0.00,,,,5.16
+NTIOFNational Bank of Canada,Finance,$66.12,$22.37B,,$0.00,,,,9.55
+VONOYVonovia,Finance,$13.72,$22.35B,,$0.00,,,$1.19,-3.37
+VGSHVanguard Short-Term Treasury Index ETF,,$57.79,$22.32B,,$0.00,,,,
+NJDCYNidec,Computer and Technology,$9.67,$22.29B,,$0.00,,Hold 2.00,$0.52,50.9
+FRFHFFairfax Financial,Finance,$912.05,$22.20B,,$662.00,-27.42%,Buy 3.00,,4.59
+SCBFFStandard Chartered,Finance,$8.09,$22.13B,,$930.00,"11,395.67%",Reduce 1.75,$1.20,9.09
+HSNGYHang Seng Bank,Finance,$11.56,$22.10B,,$0.00,,Sell 1.00,$1.10,
+ALPMYAstellas Pharma,Medical,$12.16,$22.01B,,$0.00,,Moderate Buy 2.50,$0.67,101.34
+RJFRaymond James,Finance,$105.47,$22.00B,Quarterly,$118.67,12.51%,Hold 2.33,$9.04,13.25
+VEOEYVeolia Environnement,Utilities,$15.39,$21.99B,,$0.00,,Moderate Buy 2.50,$2.02,
+VRSNVeriSign,Computer and Technology,$213.23,$21.98B,,$247.00,15.84%,Moderate Buy 2.50,$7.15,30.37
+IUSBiShares Core Total USD Bond Market ETF,Manufacturing,$44.22,$21.96B,Monthly,$0.00,,,,
+BRBroadridge Financial Solutions,Business Services,$186.59,$21.95B,Quarterly,$173.67,-6.93%,Hold 2.33,$7.72,33.14
+TROWT. Rowe Price Group,Finance,$98.28,$21.93B,Quarterly,$94.45,-3.89%,Reduce 1.55,$7.41,14.0
+CHCJYChina CITIC Bank,Finance,$8.96,$21.92B,,$0.00,,,,2.78
+HLUYYH. Lundbeck A/S,Medical,$22.00,$21.91B,,$0.00,,Reduce 1.75,$2.10,25.0
+RBLXRoblox,Consumer Discretionary,$38.14,$21.88B,,$41.25,8.15%,Moderate Buy 2.62,($1.91),-20.84
+SHViShares Short Treasury Bond ETF,,$110.48,$21.83B,Monthly,$0.00,,,,
+DTEDTE Energy,Utilities,$105.37,$21.73B,Quarterly,$117.85,11.84%,Moderate Buy 2.88,$5.88,17.42
+STTState Street,Finance,$70.38,$21.72B,Quarterly,$75.50,7.27%,Hold 2.15,$7.41,10.27
+SAXPYSampo Oyj,Finance,$21.62,$21.70B,,$0.00,,Hold 2.25,,17.02
+DFSDiscover Financial Services,Finance,$86.77,$21.70B,Quarterly,$103.56,19.35%,Hold 2.40,$12.32,6.44
+QSRRestaurant Brands International,Retail/Wholesale,$69.37,$21.65B,Quarterly,$78.50,13.16%,Moderate Buy 2.56,$3.23,23.84
+AKZODAkzo Nobel,Basic Materials,$25.33,$21.63B,,$0.00,,,$0.84,16.03
+IXORIX,Finance,$91.43,$21.61B,,$0.00,,,$10.24,10.64
+FEFirstEnergy,Utilities,$37.64,$21.60B,Quarterly,$40.00,6.27%,Hold 2.33,$2.54,47.05
+SCHYYSands China,Consumer Discretionary,$26.67,$21.59B,,$0.00,,Moderate Buy 2.67,$1.20,
+EQREquity Residential,Finance,$56.83,$21.58B,Quarterly,$65.68,15.57%,Hold 2.21,$3.78,31.57
+EBAYeBay,Retail/Wholesale,$41.48,$21.53B,Quarterly,$48.47,16.86%,Hold 2.24,$3.30,8.2
+HWMHowmet Aerospace,Construction,$52.27,$21.52B,Quarterly,$53.69,2.72%,Moderate Buy 2.79,$1.78,34.39
+WPMWheaton Precious Metals,Basic Materials,$47.46,$21.50B,Quarterly,$52.88,11.41%,Moderate Buy 2.67,$1.10,39.88
+TIPiShares TIPS Bond ETF,,$104.21,$21.45B,,$0.00,,,,
+MOHMolina Healthcare,Medical,$367.62,$21.43B,,$349.82,-4.84%,Moderate Buy 2.50,$20.83,22.92
+TSCOTractor Supply,Retail/Wholesale,$198.19,$21.43B,Quarterly,$234.42,18.28%,Moderate Buy 2.67,$10.04,19.35
+ETREntergy,Utilities,$101.10,$21.38B,Quarterly,$111.67,10.45%,Moderate Buy 2.55,$6.73,14.53
+PINSPinterest,Computer and Technology,$31.67,$21.36B,,$33.27,5.06%,Moderate Buy 2.58,$0.11,-98.97
+VIACAViacomCBS,Consumer Discretionary,$18.02,$21.25B,,$0.00,,,,3.53
+DFACDimensional U.S. Core Equity 2 ETF,,$27.47,$21.25B,,$0.00,,,,14.57
+IGSBiShares 1-5 Year Investment Grade Corporate Bond ETF,Manufacturing,$50.31,$21.23B,Monthly,$0.00,,,,
+BROBrown & Brown,Finance,$74.53,$21.21B,Quarterly,$77.38,3.82%,Moderate Buy 2.63,$2.76,28.34
+SDYSPDR S&P Dividend ETF,,$119.07,$21.19B,,$0.00,,,,14.72
+IMBBYImperial Brands,Consumer Staples,$23.50,$21.01B,,"$4,200.00","17,772.34%",Buy 3.00,$3.76,
+WABWestinghouse Air Brake Technologies,Transportation,$117.06,$20.97B,Quarterly,$126.14,7.76%,Moderate Buy 2.50,$5.93,28.0
+GMABGenmab A/S,Medical,$31.62,$20.89B,,$41.60,31.56%,Hold 2.40,$1.13,33.64
+MTBM&T Bank,Finance,$125.62,$20.85B,Quarterly,$148.62,18.31%,Hold 2.43,$15.98,7.25
+FCNCAFirst Citizens BancShares,Finance,"$1,435.40",$20.84B,Quarterly,"$1,625.00",13.21%,Moderate Buy 2.67,$171.13,1.87
+ESEversource Energy,Utilities,$59.26,$20.70B,Quarterly,$68.75,16.01%,Hold 2.09,$4.35,17.74
+SNAPSnap,Computer and Technology,$12.52,$20.61B,,$10.52,-15.97%,Hold 2.00,($0.80),-14.56
+DVDCFDavide Campari-Milano,Consumer Staples,$11.27,$20.60B,,$12.50,10.89%,Reduce 1.75,$0.39,
+TQQQProShares UltraPro QQQ,,$44.18,$20.60B,Quarterly,$0.00,,,,
+WOPEYWoodside Energy Group,Oils/Energy,$20.91,$20.58B,,$0.00,,,,
+WDSWoodside Energy Group,Oils/Energy,$20.91,$20.58B,Annually,$0.00,,Reduce 1.67,,
+PUBGYPublicis Groupe,Business Services,$20.48,$20.57B,,$15.97,-22.02%,Buy 3.00,$1.84,
+SESEA,Computer and Technology,$36.38,$20.55B,,$68.29,87.70%,Moderate Buy 2.60,$1.09,31.63
+SCHGSchwab U.S. Large-Cap Growth ETF,,$79.72,$20.54B,,$0.00,,,,27.24
+SCGLYSociété Générale Société anonyme,Finance,$5.00,$20.52B,,$0.00,,Hold 2.29,$0.66,6.76
+ALNYAlnylam Pharmaceuticals,Medical,$162.92,$20.45B,,$233.00,43.01%,Moderate Buy 2.68,($3.74),-39.35
+ULTAUlta Beauty,Retail/Wholesale,$414.72,$20.42B,,$529.70,27.72%,Moderate Buy 2.75,$25.44,16.64
+INVHInvitation Homes,Finance,$33.36,$20.41B,Quarterly,$35.09,5.20%,Moderate Buy 2.50,$1.75,42.23
+HPEHewlett Packard Enterprise,Computer and Technology,$15.83,$20.31B,Quarterly,$17.54,10.79%,Hold 2.30,$1.42,19.31
+AEEAmeren,Utilities,$77.17,$20.29B,Quarterly,$87.11,12.88%,Moderate Buy 2.50,$4.38,17.54
+LYVLive Nation Entertainment,Consumer Discretionary,$87.63,$20.18B,,$105.17,20.01%,Moderate Buy 2.75,$1.50,60.02
+BEKEKE,Finance,$16.09,$20.16B,,$24.38,51.49%,Buy 3.00,$0.77,24.75
+CTRACoterra Energy,Oils/Energy,$26.77,$20.14B,Quarterly,$31.93,19.29%,Hold 2.39,$2.26,9.2
+STESTERIS,Medical,$203.19,$20.08B,Quarterly,$242.60,19.40%,Moderate Buy 2.60,$8.69,36.74
+TSTenaris,Industrial Products,$34.00,$20.07B,Annually,$43.20,27.06%,Moderate Buy 2.67,$5.74,5.58
+FTSFortis,Utilities,$41.08,$20.07B,Quarterly,$56.58,37.74%,Hold 2.25,$2.24,17.94
+NOKNokia Oyj,Computer and Technology,$3.55,$19.99B,Quarterly,$5.61,58.10%,Moderate Buy 2.80,$0.35,5.07
+PHGKoninklijke Philips,Medical,$21.35,$19.83B,Annually,$27.90,30.68%,Hold 2.17,$1.28,-29.25
+MSADYMS&AD Insurance Group,Finance,$18.43,$19.76B,,$0.00,,,,12.62
+SPLGSPDR Portfolio S&P 500 ETF,,$53.52,$19.74B,,$0.00,,,,16.41
+KYOCYKyocera,Computer and Technology,$55.01,$19.74B,,$0.00,,,$2.14,25.59
+NVRNVR,Construction,"$6,195.06",$19.73B,,"$5,866.67",-5.30%,Hold 2.33,$463.01,13.04
+REPYYRepsol,Oils/Energy,$15.44,$19.72B,,$17.00,10.10%,Hold 2.33,$3.87,5.0
+UMCUnited Microelectronics,Computer and Technology,$7.88,$19.71B,Annually,$8.33,5.71%,Hold 2.40,$0.75,9.06
+CKHUYCK Hutchison,Multi-Sector Conglomerates,$5.14,$19.70B,,$0.00,,,,
+ATASYAtlantia,Construction,$11.91,$19.67B,,$0.00,,,,
+SZKMYSuzuki Motor,Auto/Tires/Trucks,$159.95,$19.64B,,$0.00,,Buy 3.00,,11.23
+MTArcelorMittal,Basic Materials,$24.36,$19.62B,Annually,$29.16,19.70%,Hold 2.40,$4.89,5.0
+TRGPTarga Resources,Oils/Energy,$87.84,$19.59B,Quarterly,$104.00,18.40%,Buy 3.08,$5.03,22.99
+CCJCameco,Basic Materials,$45.13,$19.58B,Annually,$35.33,-21.71%,Buy 3.33,$0.64,102.57
+DOVDover,Industrial Products,$139.69,$19.54B,Quarterly,$162.23,16.14%,Moderate Buy 2.62,$8.80,19.19
+IPXHYInpex,Oils/Energy,$14.08,$19.53B,,$0.00,,,,5.5
+ROLRollins,Construction,$40.13,$19.42B,Quarterly,$50.20,25.09%,Buy 3.00,$0.89,48.35
+ZMZoom Video Communications,Computer and Technology,$64.53,$19.42B,,$79.84,23.73%,Hold 2.25,$1.77,88.4
+PPLPPL,Utilities,$26.31,$19.39B,Quarterly,$30.13,14.50%,Hold 2.33,$1.58,23.7
+AJINYAjinomoto,Consumer Staples,$37.18,$19.39B,,$0.00,,Buy 3.00,,29.05
+GPCGenuine Parts,Auto/Tires/Trucks,$137.40,$19.26B,Quarterly,$168.11,22.35%,Hold 2.44,$9.28,15.54
+OWLBlue Owl Capital,Finance,$13.56,$19.10B,Quarterly,$15.19,12.05%,Moderate Buy 2.63,$0.65,193.74
+CBOECboe Global Markets,Financial Services,$180.06,$19.10B,,$163.00,-9.47%,Hold 2.36,$6.41,92.81
+IFFInternational Flavors & Fragrances,Consumer Staples,$74.73,$19.08B,Quarterly,$76.27,2.06%,Hold 2.20,$3.37,415.17
+MKLMarkel Group,Multi-Sector Conglomerates,"$1,442.25",$19.07B,,"$1,480.00",2.62%,Hold 2.40,$80.27,10.34
+EBRCentrais Elétricas Brasileiras S.A. - Eletrobrás,Utilities,$8.27,$19.03B,Annually,$0.00,,,$0.18,
+HYMLFHyundai Motor,Auto/Tires/Trucks,$89.00,$19.02B,,$0.00,,,,3.23
+PHMPulteGroup,Construction,$88.10,$18.99B,Quarterly,$89.00,1.02%,Moderate Buy 2.82,$11.46,7.16
+SVNLYSvenska Handelsbanken AB (publ),Finance,$4.79,$18.97B,,$0.00,,Hold 2.00,$0.64,7.85
+EXPEExpedia Group,Retail/Wholesale,$136.42,$18.94B,,$129.33,-5.19%,Hold 2.36,$7.31,24.49
+SIRISirius XM,Consumer Discretionary,$4.93,$18.93B,Quarterly,$5.02,1.88%,Reduce 1.92,$0.31,15.41
+JBHTJ.B. Hunt Transport Services,Transportation,$183.05,$18.88B,Quarterly,$197.00,7.62%,Hold 2.44,$7.26,24.67
+VGKVanguard FTSE Europe ETF,,$61.67,$18.86B,,$0.00,,,,11.1
+TDYTeledyne Technologies,Aerospace,$399.58,$18.85B,,$503.86,26.10%,Moderate Buy 2.83,$19.31,24.23
+DWAHYDaiwa House Industry,Real Estate,$28.58,$18.84B,,$0.00,,,,7.27
+MDYSPDR S&P MidCap 400 ETF Trust,,$468.29,$18.84B,,$0.00,,,,11.0
+DRIDarden Restaurants,Retail/Wholesale,$156.01,$18.77B,Quarterly,$167.83,7.57%,Moderate Buy 2.75,$8.77,19.43
+ASXASE Technology,Computer and Technology,$8.58,$18.74B,Annually,$7.84,-8.68%,Hold 2.33,$0.44,15.05
+TECKTeck Resources,Basic Materials,$36.46,$18.68B,Quarterly,$41.92,14.98%,Moderate Buy 2.86,$3.67,11.61
+SPYGSPDR Portfolio S&P 500 Growth ETF,,$62.97,$18.60B,,$0.00,,,,20.7
+FITBFifth Third Bancorp,Finance,$27.25,$18.56B,Quarterly,$32.03,17.55%,Moderate Buy 2.62,$3.51,7.74
+WRBW. R. Berkley,Finance,$71.83,$18.52B,Quarterly,$75.57,5.21%,Moderate Buy 2.71,$4.79,14.48
+YUMCYum China,Retail/Wholesale,$44.67,$18.48B,Quarterly,$75.25,68.46%,Buy 3.00,$1.91,24.02
+PTCPTC,Computer and Technology,$154.92,$18.47B,,$161.62,4.32%,Moderate Buy 2.77,$3.42,75.57
+IRMIron Mountain,Finance,$63.21,$18.46B,Quarterly,$61.75,-2.31%,Moderate Buy 2.60,$3.96,66.54
+AVIFYAdvanced Info Service Public,Computer and Technology,$6.20,$18.44B,,$0.00,,,,22.96
+TTNDYTechtronic Industries,Industrial Products,$50.25,$18.43B,,$0.00,,Hold 2.00,$2.63,
+KKellanova,Consumer Discretionary,$53.47,$18.31B,Quarterly,$63.54,18.83%,Hold 2.08,$3.95,22.47
+AREAlexandria Real Estate Equities,Finance,$105.18,$18.28B,Quarterly,$144.33,37.23%,Moderate Buy 2.89,$8.97,75.67
+BAXBaxter International,Medical,$36.02,$18.27B,Quarterly,$47.25,31.18%,Hold 2.33,$2.58,7.06
+VLTOVeralto,Business Services,$74.01,$18.23B,,$87.40,18.09%,Hold 2.40,,
+PBAPembina Pipeline,Oils/Energy,$33.09,$18.17B,Quarterly,$40.57,22.61%,Moderate Buy 2.75,$1.97,20.55
+ACWIiShares MSCI ACWI ETF,Manufacturing,$97.88,$18.17B,SemiAnnual,$0.00,,,,15.44
+VTRVentas,Finance,$45.11,$18.15B,Quarterly,$50.62,12.20%,Moderate Buy 2.73,$2.99,4515.52
+VGITVanguard Intermediate-Term Treasury Index ETF,,$57.54,$18.15B,,$0.00,,,,
+DVYiShares Select Dividend ETF,,$110.72,$18.09B,Quarterly,$0.00,,,,11.69
+LHLaboratory Co. of America,Medical,$212.72,$18.06B,Quarterly,$243.67,14.55%,Moderate Buy 2.80,$13.57,28.44
+STLDSteel Dynamics,Basic Materials,$111.50,$18.04B,Quarterly,$110.89,-0.55%,Hold 2.11,$14.66,7.15
+WBAWalgreens Boots Alliance,Retail/Wholesale,$20.85,$18.01B,Quarterly,$29.36,40.83%,Hold 2.10,$3.34,-5.84
+EGEverest Group,Finance,$414.25,$17.97B,Quarterly,$458.00,10.56%,Buy 3.17,$55.60,7.69
+RKTRocket Companies,Business Services,$9.03,$17.90B,,$8.98,-0.58%,Reduce 1.92,($0.19),-43.0
+HRLHormel Foods,Consumer Staples,$32.72,$17.88B,Quarterly,$40.00,22.25%,Reduce 1.67,$1.64,20.32
+ONONON,Consumer Discretionary,$28.48,$17.87B,,$35.58,24.93%,Moderate Buy 2.71,$0.41,101.71
+"MKCMcCormick & Company, Incorporated",Consumer Staples,$66.44,$17.83B,Quarterly,$78.20,17.70%,Hold 2.00,$2.65,27.68
+LGGNYLegal & General Group,Finance,$14.80,$17.70B,,$0.00,,Hold 2.00,$1.01,
+ESALYEisai,Medical,$61.51,$17.64B,,$0.00,,Buy 3.00,$1.90,70.7
+CNPCenterPoint Energy,Utilities,$27.93,$17.63B,Quarterly,$31.10,11.35%,Moderate Buy 2.56,$1.50,22.34
+BGNEBeiGene,Medical,$184.72,$17.59B,,$278.08,50.55%,Moderate Buy 2.83,($6.99),-19.95
+VIVTelefônica Brasil,Utilities,$10.56,$17.57B,,$11.13,5.43%,Moderate Buy 2.67,$0.59,19.2
+CLXClorox,Consumer Staples,$141.19,$17.52B,Quarterly,$139.53,-1.17%,Reduce 1.80,$4.51,207.64
+XLYConsumer Discretionary Select Sector SPDR Fund,Finance,$168.24,$17.51B,,$0.07,-99.96%,Hold 2.00,,
+FDSFactSet Research Systems,Business Services,$460.11,$17.48B,Quarterly,$442.73,-3.78%,Hold 2.15,$16.02,38.22
+MITEYMitsubishi Estate,Finance,$13.12,$17.37B,,$0.00,,,$0.91,17.97
+SONVYSonova,Medical,$56.76,$17.36B,,$0.00,,Strong Sell 1.25,,
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+PFGPrincipal Financial Group,Finance,$72.65,$17.32B,Quarterly,$74.92,3.12%,Reduce 1.58,$6.42,11.97
+LPLALPL Financial,Finance,$228.85,$17.31B,Quarterly,$252.90,10.51%,Moderate Buy 2.56,$15.45,15.52
+TYLTyler Technologies,Computer and Technology,$410.12,$17.28B,,$442.43,7.88%,Moderate Buy 2.75,$5.73,110.54
+HOLXHologic,Medical,$71.74,$17.22B,,$86.58,20.69%,Moderate Buy 2.54,$3.99,39.2
+EDREndeavor Group,Consumer Discretionary,$24.81,$17.22B,Quarterly,$32.00,28.98%,Buy 3.00,$0.34,70.89
+WMGWarner Music Group,Consumer Discretionary,$33.32,$17.19B,Quarterly,$37.19,11.61%,Moderate Buy 2.75,$1.30,41.14
+EXPDExpeditors International of Washington,Transportation,$118.13,$17.17B,Annually,$104.44,-11.59%,Reduce 1.57,$5.17,22.33
+TSNTyson Foods,Consumer Staples,$48.30,$17.16B,Quarterly,$54.60,13.04%,Reduce 1.78,$2.14,-25.56
+FSNUYFresenius SE & Co. KGaA,Medical,$7.68,$17.16B,,$0.00,,Moderate Buy 2.67,$0.74,69.82
+AKAMAkamai Technologies,Computer and Technology,$113.65,$17.14B,,$109.72,-3.46%,Moderate Buy 2.61,$4.45,34.23
+AXONAxon Enterprise,Industrial Products,$228.42,$17.12B,,$245.64,7.54%,Moderate Buy 2.90,$2.29,117.14
+BALLBall,Industrial Products,$54.28,$17.11B,Quarterly,$58.40,7.59%,Hold 2.20,$2.93,28.27
+USFRWisdomTree Bloomberg Floating Rate Treasury Fund,Finance,$50.27,$17.08B,,$0.00,,,,
+WLMIYWilmar International,Basic Materials,$27.35,$17.07B,,$0.00,,,,
+CHKPCheck Point Software Technologies,Computer and Technology,$145.54,$17.03B,,$139.27,-4.31%,Hold 2.24,$7.28,20.3
+CABGYCarlsberg A/S,Consumer Staples,$24.75,$17.00B,,$0.00,,Moderate Buy 2.50,$1.57,
+EFViShares MSCI EAFE Value ETF,,$50.57,$16.99B,,$0.00,,,,9.51
+EEMiShares MSCI Emerging Markets ETF,Finance,$39.54,$16.94B,,$0.00,,,,
+XLPConsumer Staples Select Sector SPDR Fund,,$70.41,$16.91B,,$0.00,,,,19.8
+FLTFLEETCOR Technologies,Business Services,$234.01,$16.90B,,$282.27,20.62%,Moderate Buy 2.60,$15.75,18.35
+ALGNAlign Technology,Medical,$219.48,$16.81B,,$336.60,53.36%,Moderate Buy 2.70,$6.86,46.5
+COOCooper Companies,Medical,$339.34,$16.81B,,$401.30,18.26%,Moderate Buy 2.75,$12.81,61.36
+EQTEQT,Oils/Energy,$40.85,$16.80B,Quarterly,$46.31,13.37%,Moderate Buy 2.56,$2.23,5.52
+CMSCMS Energy,Utilities,$57.59,$16.80B,Quarterly,$61.50,6.79%,Moderate Buy 2.63,$3.10,22.67
+JBLJabil,Computer and Technology,$131.17,$16.78B,Quarterly,$120.00,-8.52%,Buy 3.00,$8.67,21.86
+KUBTYKubota,Industrial Products,$70.88,$16.73B,,$0.00,,Hold 2.25,$5.80,11.27
+BAHBooz Allen Hamilton,Business Services,$128.15,$16.71B,Quarterly,$127.63,-0.41%,Moderate Buy 2.75,$5.02,57.73
+TRMLFTourmaline Oil,Oils/Energy,$49.01,$16.69B,,$34.75,-29.10%,Buy 3.00,,22.48
+ATOAtmos Energy,Utilities,$112.00,$16.63B,Quarterly,$122.14,9.06%,Moderate Buy 2.57,$6.49,18.27
+ERICTelefonaktiebolaget LM Ericsson (publ),Computer and Technology,$4.97,$16.62B,Annually,$8.32,67.40%,Hold 2.25,$0.15,-7.53
+BLDRBuilders FirstSource,Retail/Wholesale,$134.71,$16.62B,,$140.77,4.50%,Moderate Buy 2.71,$13.82,11.44
+SPYVSPDR Portfolio S&P 500 Value ETF,,$44.12,$16.61B,,$0.00,,,,13.69
+BMRNBioMarin Pharmaceutical,Medical,$88.19,$16.61B,,$113.77,29.01%,Moderate Buy 2.63,$1.18,114.53
+NRILYNomura Research Institute,Business Services,$27.93,$16.59B,,$0.00,,Buy 3.00,$0.92,
+KBKB Financial Group,Finance,$41.12,$16.59B,,$46.15,12.23%,,$9.64,4.57
+WLKWestlake,Basic Materials,$129.42,$16.58B,Quarterly,$128.71,-0.55%,Reduce 1.87,$8.45,13.84
+WATWaters,Medical,$280.39,$16.58B,,$298.00,6.28%,Reduce 1.89,$11.69,25.47
+SOMLYSecom,Business Services,$17.76,$16.57B,,$0.00,,,$0.81,20.89
+SDXAYSodexo,Business Services,$22.45,$16.55B,,$0.00,,Hold 2.25,$1.42,
+FSLRFirst Solar,Oils/Energy,$154.38,$16.49B,,$232.92,50.88%,Moderate Buy 2.80,$7.98,34.93
+VHTVanguard Health Care ETF,,$238.20,$16.45B,,$0.00,,,,20.5
+WNGRFGeorge Weston,Consumer Staples,$120.88,$16.42B,,$133.40,10.36%,,,16.01
+DECKDeckers Outdoor,Retail/Wholesale,$637.07,$16.39B,,$604.43,-5.12%,Moderate Buy 2.83,$23.41,27.5
+SPDWSPDR Portfolio Developed World ex-US ETF,,$32.55,$16.38B,,$0.00,,,,10.73
+NTAPNetApp,Computer and Technology,$78.34,$16.36B,Quarterly,$77.84,-0.64%,Hold 2.35,$4.48,14.17
+VRTVertiv,Computer and Technology,$42.68,$16.28B,Annually,$37.00,-13.31%,Moderate Buy 2.90,$1.72,65.66
+FNGUMicroSectors FANG+ Index 3X Leveraged ETN,Finance,$203.20,$16.26B,,$0.00,,,,
+QQQMInvesco NASDAQ 100 ETF,,$160.26,$16.20B,Quarterly,$0.00,,,,21.58
+RPRXRoyalty Pharma,Finance,$27.06,$16.17B,Quarterly,$55.00,103.25%,Buy 3.00,$4.20,87.29
+CBS.ACBS,Consumer Cyclical,$18.02,$16.16B,,$0.00,,,,2.33
+CLLDYCapitaLand,Finance,$6.21,$16.16B,,$0.00,,,,
+CCLCarnival Co. &,Consumer Discretionary,$14.41,$16.13B,,$18.44,28.00%,Moderate Buy 2.78,($0.07),-10.67
+SMICYSemiconductor Manufacturing International,Computer and Technology,$14.00,$16.13B,,$0.00,,,$0.38,33.33
+SWMAYSwedish Match AB (publ),Consumer Discretionary,$10.57,$16.12B,,$0.00,,,,24.02
+HUBBHubbell,Industrial Products,$300.53,$16.12B,Quarterly,$299.43,-0.37%,Hold 2.29,$15.19,22.84
+CINFCincinnati Financial,Finance,$102.68,$16.11B,Quarterly,$115.43,12.42%,Hold 2.44,$5.59,9.71
+VMBSVanguard Mortgage-Backed Securities ETF,,$44.13,$16.11B,,$0.00,,,,
+GPOVYGrupo Carso,Multi-Sector Conglomerates,$14.14,$15.96B,,$0.00,,,,15.2
+XPEVXPeng,Auto/Tires/Trucks,$18.48,$15.92B,,$17.18,-7.06%,Hold 2.14,($1.70),-9.88
+STXSeagate Technology,Business Services,$76.08,$15.91B,Quarterly,$65.35,-14.10%,Hold 2.31,($0.37),-21.31
+VOEVanguard Mid-Cap Value ETF,,$135.83,$15.88B,,$0.00,,,,13.4
+OMCOmnicom Group,Business Services,$80.09,$15.85B,Quarterly,$93.25,16.43%,Hold 2.13,$7.39,11.64
+NSANYNissan Motor,Auto/Tires/Trucks,$8.09,$15.83B,,$0.00,,Reduce 1.67,$1.32,4.9
+NTRSNorthern Trust,Finance,$76.36,$15.81B,Quarterly,$78.55,2.87%,Hold 2.20,$6.07,14.49
+SGSOYSGS,Business Services,$8.42,$15.78B,,$0.00,,Hold 2.00,$0.42,
+HBANHuntington Bancshares,Finance,$10.88,$15.76B,Quarterly,$12.30,13.05%,Hold 2.36,$1.37,7.21
+RIVNRivian Automotive,Auto/Tires/Trucks,$16.43,$15.74B,,$28.95,76.20%,Moderate Buy 2.75,($5.94),-2.72
+BGBunge Global,Basic Materials,$108.01,$15.69B,Quarterly,$127.14,17.71%,Moderate Buy 2.57,$12.80,8.36
+MGAMagna International,Auto/Tires/Trucks,$54.75,$15.68B,Quarterly,$66.29,21.07%,Hold 2.43,$5.44,15.17
+ILMNIllumina,Medical,$98.34,$15.62B,,$194.56,97.84%,Hold 2.24,$0.68,-13.81
+XLIIndustrial Select Sector SPDR Fund,,$106.34,$15.60B,,$0.00,,,,16.72
+ENTGEntegris,Computer and Technology,$103.87,$15.60B,Quarterly,$109.13,5.06%,Moderate Buy 2.75,$2.60,78.69
+WSOWatsco,Construction,$395.23,$15.57B,Quarterly,$373.78,-5.43%,Hold 2.29,$14.12,26.09
+JJacobs Solutions,Business Services,$123.37,$15.55B,Quarterly,$149.60,21.26%,Moderate Buy 2.70,$8.09,23.32
+SUISun Communities,Finance,$124.75,$15.52B,Quarterly,$141.36,13.32%,Moderate Buy 2.63,$7.09,68.17
+FWONKFormula One Group,Consumer Discretionary,$65.99,$15.48B,,$85.50,29.57%,Buy 3.00,$0.82,
+LLoews,Finance,$69.30,$15.45B,Quarterly,$170.00,145.31%,Buy 3.00,,11.87
+HTZZHertz Global,Transportation,$8.59,$15.42B,,$0.00,,,$3.72,
+RSReliance Steel & Aluminum,Industrial Products,$268.00,$15.40B,Quarterly,$275.00,2.61%,Hold 2.40,$21.73,11.27
+DTDynatrace,Computer and Technology,$52.21,$15.37B,,$55.27,5.87%,Moderate Buy 2.81,$0.58,91.6
+TXTTextron,Aerospace,$78.39,$15.36B,Quarterly,$84.71,8.07%,Hold 2.38,$5.53,16.89
+ERIEErie Indemnity,Finance,$292.79,$15.31B,Quarterly,$0.00,,,$8.53,38.22
+AVYAvery Dennison,Industrial Products,$189.74,$15.28B,Quarterly,$207.25,9.23%,Buy 3.00,$7.86,31.89
+ALFVYAlfa Laval Corporate,Construction,$36.94,$15.27B,,$0.00,,Hold 2.22,$1.47,26.77
+HDELYHeidelberg Materials,Construction,$15.81,$15.26B,,$0.00,,Moderate Buy 2.86,$2.06,
+VXFVanguard Extended Market ETF,,$147.50,$15.26B,,$0.00,,,,13.1
+GPFOYGrupo Financiero Inbursa,Finance,$12.50,$15.26B,,$0.00,,,$1.16,
+DGXQuest Diagnostics,Medical,$135.54,$15.24B,Quarterly,$146.09,7.78%,Hold 2.10,$8.71,20.35
+SMCISuper Micro Computer,Computer and Technology,$285.67,$15.23B,,$353.88,23.88%,Moderate Buy 2.75,$14.83,26.33
+BBYBest Buy,Retail/Wholesale,$69.51,$15.13B,Quarterly,$75.64,8.82%,Hold 2.33,$6.16,11.98
+SWKSSkyworks Solutions,Computer and Technology,$94.90,$15.13B,Quarterly,$115.88,22.10%,Moderate Buy 2.52,$5.98,15.48
+ALBAlbemarle,Basic Materials,$128.87,$15.12B,Quarterly,$228.50,77.31%,Hold 2.40,$21.82,4.57
+IEXIDEX,Industrial Products,$199.21,$15.07B,Quarterly,$231.30,16.11%,Moderate Buy 2.63,$8.17,24.53
+CRZBYCommerzbank,Finance,$12.14,$15.06B,,$0.00,,Reduce 1.67,$1.60,6.74
+HYGiShares iBoxx $ High Yield Corporate Bond ETF,,$75.00,$15.05B,Monthly,$0.00,,,,9.33
+WDCWestern Digital,Computer and Technology,$46.60,$15.00B,,$49.29,5.76%,Moderate Buy 2.60,($4.34),-6.08
+CFCF Industries,Basic Materials,$78.36,$14.97B,Quarterly,$92.44,17.97%,Hold 2.21,$8.00,7.29
+RFRegions Financial,Finance,$16.05,$14.93B,Quarterly,$19.23,19.80%,Hold 2.31,$2.20,6.69
+XLCCommunication Services Select Sector SPDR Fund,,$70.96,$14.93B,,$0.00,,,,14.26
+FKKFFFukuoka Financial Group,Financial Services,$17.36,$14.92B,,$0.00,,Hold 2.00,,-32.14
+MGKVanguard Mega Cap Growth ETF,,$250.66,$14.90B,,$0.00,,,,28.5
+AVVIYAviva,Finance,$10.88,$14.90B,,$480.00,"4,311.76%",Moderate Buy 2.50,$0.93,
+BIVVanguard Intermediate-Term Bond ETF,,$73.26,$14.86B,,$0.00,,,,
+BSYBentley Systems,Computer and Technology,$52.26,$14.86B,Quarterly,$56.00,7.16%,Moderate Buy 2.67,$0.70,98.61
+LNVGYLenovo Group,Computer and Technology,$24.50,$14.86B,,$0.00,,Buy 3.00,$2.09,15.61
+MROMarathon Oil,Oils/Energy,$25.35,$14.84B,Quarterly,$33.09,30.53%,Moderate Buy 2.93,$2.72,9.39
+LUVSouthwest Airlines,Transportation,$24.87,$14.83B,Quarterly,$32.06,28.91%,Hold 2.00,$1.38,33.16
+LIILennox International,Construction,$416.43,$14.80B,Quarterly,$392.09,-5.84%,Moderate Buy 2.55,$17.74,27.49
+SUZSuzano,Basic Materials,$10.86,$14.78B,Annually,$0.00,,Buy 3.00,$2.35,4.33
+WSO.BWatsco,Construction,$375.00,$14.77B,,$0.00,,,,24.75
+TMETencent Music Entertainment Group,Computer and Technology,$8.60,$14.76B,,$8.77,1.98%,Moderate Buy 2.64,$0.45,20.0
+VONGVanguard Russell 1000 Growth ETF,,$74.85,$14.76B,,$0.00,,,,27.0
+EPAMEPAM Systems,Computer and Technology,$255.47,$14.74B,,$287.42,12.51%,Hold 2.23,$8.44,31.85
+FOXAFOX,Consumer Discretionary,$30.47,$14.71B,Annually,$34.93,14.65%,Hold 2.12,$3.31,14.94
+CMAKYChina Minsheng Banking,Finance,$3.36,$14.69B,,$0.00,,Buy 3.00,,3.14
+LDOSLeidos,Aerospace,$106.76,$14.68B,Quarterly,$114.36,7.12%,Moderate Buy 2.64,$7.02,102.65
+XLUUtilities Select Sector SPDR Fund,,$62.69,$14.66B,,$0.00,,,,20.41
+SCHASchwab US Small-Cap ETF,,$42.30,$14.63B,,$0.00,,,,11.63
+IOTSamsara,Computer and Technology,$27.27,$14.59B,,$25.80,-5.39%,Hold 2.44,($0.41),-60.6
+SHGShinhan Financial Group,Finance,$28.20,$14.54B,,$32.31,14.57%,Hold 2.00,$6.23,4.83
+SQMSociedad Química y Minera de Chile,Basic Materials,$50.85,$14.52B,Quarterly,$76.61,50.66%,Hold 2.38,$8.13,4.9
+SNASnap-on,Consumer Discretionary,$275.14,$14.52B,Quarterly,$298.17,8.37%,Hold 2.33,$18.62,14.94
+CJEWYChow Tai Fook Jewellery Group,Retail/Wholesale,$14.48,$14.48B,,$0.00,,,$1.07,
+CECelanese,Basic Materials,$132.94,$14.47B,Quarterly,$129.06,-2.92%,Hold 2.31,$9.02,7.16
+RTORentokil Initial,Business Services,$28.66,$14.46B,Annually,$47.00,63.99%,Hold 2.00,$1.37,
+NIPNFNEC,Computer and Technology,$55.50,$14.46B,,$0.00,,Hold 2.00,,
+KRYAYKerry Group,Consumer Staples,$81.63,$14.45B,,$0.00,,Hold 2.00,$4.59,
+"SGIOYShionogi & Co., Ltd.",Medical,$11.73,$14.42B,,$0.00,,Sell 1.00,$0.90,9.24
+AEGAegon,Finance,$5.38,$14.39B,Annually,$0.00,,Moderate Buy 2.75,$0.27,
+LWLamb Weston,Consumer Staples,$99.21,$14.38B,Quarterly,$125.29,26.28%,Moderate Buy 2.86,$5.84,14.34
+IUSViShares Core S&P U.S. Value ETF,Manufacturing,$79.54,$14.35B,Other,$0.00,,,,15.57
+MAAMid-America Apartment Communities,Finance,$122.67,$14.31B,Quarterly,$155.09,26.43%,Hold 2.06,$9.15,24.49
+SGPYYThe Sage Group,Computer and Technology,$55.68,$14.29B,,$0.00,,Hold 2.00,$1.73,
+HLDCYHenderson Land Development,Finance,$2.94,$14.23B,,$0.00,,Hold 2.00,$0.31,
+AERAerCap,Finance,$67.54,$14.19B,,$82.50,22.15%,Buy 3.00,$10.15,6.25
+IUSGiShares Core S&P U.S. Growth ETF,Manufacturing,$100.63,$14.15B,Other,$0.00,,,,21.59
+TERTeradyne,Computer and Technology,$92.49,$14.14B,Quarterly,$109.45,18.34%,Moderate Buy 2.50,$2.86,30.32
+UPMKYUPM-Kymmene,Basic Materials,$26.45,$14.12B,,$0.00,,,$2.30,9.98
+BAMBrookfield Asset Management,Finance,$33.97,$14.02B,Quarterly,$37.32,9.86%,Moderate Buy 2.64,$1.36,28.07
+SWKStanley Black & Decker,Industrial Products,$91.41,$14.01B,Quarterly,$97.80,6.99%,Hold 2.25,$1.25,-234.38
+SKHSYSekisui House,Construction,$21.11,$13.99B,,$0.00,,,,11.17
+COWZPacer US Cash Cows 100 ETF,,$49.95,$13.98B,,$0.00,,,,7.11
+NCMGYNewcrest Mining,Basic Materials,$15.59,$13.94B,,$0.00,,Reduce 1.50,$0.72,
+FWONAFormula One Group,Consumer Discretionary,$59.40,$13.93B,,$76.40,28.62%,Buy 3.00,$1.13,
+PKGPackaging Co. of America,Industrial Products,$155.13,$13.90B,Quarterly,$145.83,-5.99%,Hold 2.20,$8.35,17.85
+FUJHYSubaru,Auto/Tires/Trucks,$9.04,$13.87B,,$0.00,,Hold 2.00,$1.56,6.84
+VTIPVanguard Short-Term Inflation-Protected Securities ETF,Manufacturing,$47.40,$13.83B,Quarterly,$0.00,,,,
+SSNCSS&C Technologies,Computer and Technology,$55.84,$13.82B,Quarterly,$66.33,18.79%,Buy 3.00,$4.15,23.07
+ESSEssex Property Trust,Finance,$214.72,$13.78B,Quarterly,$238.44,11.05%,Hold 2.12,$15.02,26.35
+GGGGraco,Industrial Products,$81.48,$13.75B,Quarterly,$80.50,-1.20%,Hold 2.40,$3.04,26.8
+AVTRAvantor,Medical,$20.32,$13.74B,,$24.05,18.33%,Moderate Buy 2.73,$1.04,37.63
+SMNNYShimano,Consumer Discretionary,$15.19,$13.74B,,$0.00,,Sell 1.00,,15.34
+MGMMGM Resorts International,Consumer Discretionary,$40.22,$13.74B,,$56.35,40.09%,Moderate Buy 2.80,$2.31,13.68
+MANHManhattan Associates,Computer and Technology,$223.14,$13.74B,,$211.33,-5.29%,Moderate Buy 2.60,$2.56,84.52
+KKPNYKoninklijke KPN,Utilities,$3.48,$13.74B,,$0.00,,Moderate Buy 2.50,,
+FOXFOX,Consumer Discretionary,$28.44,$13.73B,Annually,$35.00,23.07%,Hold 2.00,,13.94
+FWONBFormula One Group,Consumer Discretionary,$58.50,$13.72B,,$0.00,,,,33.05
+POOLPool,Consumer Discretionary,$354.75,$13.72B,Quarterly,$385.70,8.72%,Moderate Buy 2.50,$13.16,25.67
+ENPHEnphase Energy,Oils/Energy,$100.22,$13.69B,,$178.17,77.78%,Hold 2.47,$3.28,25.24
+CRRFYCarrefour,Retail/Wholesale,$3.86,$13.68B,,$0.00,,Hold 2.00,$0.38,
+EDNMYEdenred,Business Services,$27.40,$13.68B,,$0.00,,Moderate Buy 2.75,$1.06,
+GENGen Digital,Business Services,$21.27,$13.63B,Quarterly,$0.00,,,$1.77,9.71
+CAGConagra Brands,Consumer Staples,$28.49,$13.62B,Quarterly,$34.15,19.88%,Hold 2.27,$2.68,12.66
+CNHICNH Industrial,Industrial Products,$10.23,$13.61B,,$18.09,76.86%,Moderate Buy 2.60,$1.70,5.95
+ZTOZTO Express (Cayman),Transportation,$22.32,$13.59B,,$33.40,49.64%,Moderate Buy 2.75,$1.50,14.98
+JHXJames Hardie Industries,Construction,$31.04,$13.59B,,$0.00,,Hold 2.00,$1.57,28.22
+TKOTKO Group,Consumer Discretionary,$78.50,$13.58B,,$111.60,42.17%,Buy 3.00,$0.23,60.85
+IEIiShares 3-7 Year Treasury Bond ETF,,$113.98,$13.56B,Monthly,$0.00,,,,
+AMCRAmcor,Industrial Products,$9.36,$13.53B,Quarterly,$10.40,11.11%,Reduce 1.80,$0.69,14.18
+ROKURoku,Consumer Discretionary,$94.93,$13.53B,,$82.36,-13.24%,Hold 2.28,($5.01),-15.39
+NPNYYNippon Yusen Kabushiki Kaisha,Transportation,$5.29,$13.49B,,$0.00,,,,
+CSLCarlisle Companies,Multi-Sector Conglomerates,$275.80,$13.43B,Quarterly,$307.14,11.36%,Moderate Buy 2.57,$14.77,19.19
+VBKVanguard Small-Cap Growth ETF,,$217.19,$13.42B,,$0.00,,,,21.9
+NDSNNordson,Industrial Products,$235.21,$13.41B,Quarterly,$258.83,10.04%,Moderate Buy 2.60,$8.96,27.1
+LOGILogitech International,Computer and Technology,$84.67,$13.39B,,$78.50,-7.29%,Hold 2.11,$2.96,35.73
+GDDYGoDaddy,Computer and Technology,$94.69,$13.36B,,$98.45,3.98%,Moderate Buy 2.75,$3.14,40.64
+EWJiShares MSCI Japan ETF,,$62.61,$13.35B,,$0.00,,,,12.76
+MASMasco,Construction,$59.19,$13.29B,Quarterly,$61.69,4.23%,Hold 2.46,$3.73,16.13
+GZPFYPublic Joint Stock Company Gazprom Neft,Oils/Energy,$14.00,$13.28B,,$0.00,,,$44.54,2.24
+APPAppLovin,Business Services,$39.49,$13.26B,,$44.00,11.42%,Moderate Buy 2.69,$0.88,131.63
+RPMRPM International,Construction,$102.35,$13.19B,Quarterly,$104.00,1.61%,Hold 2.22,$5.00,25.78
+TOSYYToshiba,Consumer Discretionary,$15.17,$13.14B,,$0.00,,Hold 2.00,$0.45,-84.25
+PODDInsulet,Medical,$187.95,$13.12B,,$254.80,35.57%,Moderate Buy 2.65,$1.90,109.91
